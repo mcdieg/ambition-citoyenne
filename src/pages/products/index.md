@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Notre collectif citoyen
-image: /img/image1.jpg
+image: /img/jumbotron.jpg
 heading: ' '
 description: ' '
 intro:
@@ -91,7 +91,7 @@ testimonials:
     quote: >-
       The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
-full_image: /img/image1.jpg
+full_image: /img/blog-index.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
