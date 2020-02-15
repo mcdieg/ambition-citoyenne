@@ -6,26 +6,51 @@ heading: ' '
 description: ' '
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/JeanFrancoisPAPOT.jpg
+      text: >-
+        45 ans, chef d’entreprise, marié et père de deux enfants, je vis au
+        Plessis-Robinson depuis 20 ans dans un appartement du Pierrier. Après
+        des études de mathématiques, j’ai choisi de devenir ingénieur.
+        Responsable de division d’une société de conseil industriel pendant dix
+        ans, j’ai préféré mettre mon énergie dans ma propre structure et
+        assister les entreprises et les collectivités dans la mise en œuvre du
+        développement durable à l’échelle du bâti et de la ville. J’y ai
+        constaté que la politique a un sens et que ses choix marquent
+        profondément et durablement l’orientation d’une ville.
+
+        Militant du Parti Socialiste, mon rôle d’élu de l’opposition au
+        Plessis-Robinson depuis 2014 s’inscrit de mes différents choix de vie.
+        Je crois que la politique s’enrichit de l’expérience de personnes issues
+        de la société civile et notamment du secteur privé. 
+
+        Ce sont mon énergie et cette expérience que je mets au service de
+        l’intérêt général, du Plessis-Robinson et de l’ambition citoyenne portée
+        et représentée par mon collègue sur les bancs de l’opposition Christophe
+        LEROY.
+    - image: /img/NL.jpg
+      text: "50 ans, célibataire, j’exerce aujourd’hui le métier de consultant à Boulogne Billancourt. J’habite dans la nouvelle Cité Jardin depuis 12 ans. En 2008, j’ai dû quitter la province dans le cadre d’une mobilité professionnelle. J’ai choisi de vivre au Plessis-Robinson en raison de la présence de parcs et jardins départementaux. La verdure et les arbres sont vitaux pour aérer mon existence. Je me suis rapidement investie localement dans des associations protectrices de l’environnement, du patrimoine et d’un urbanisme maîtrisé (association comité de Quartier le Chateaubriand pour le Panoramic-Ermitage et P.L.E.S.S.I.S) et ai également rejoint ensuite des associations d’usagers des transports.\nEn 2009, j’ai adhéré au nouveau rassemblement Europe Ecologie Les Verts qu’Eva Joly avait rejoint pour les élections européennes. En effet, outre des valeurs écologiques, l’éthique en politique est dans mon ADN.  Mon compte tweeter @Ethique92350 en porte le nom. Jusqu’en 2018, j’ai animé le site Europe Ecologie les Verts du Plessis-Robinson avant de rejoindre le mouvement crée par Benoit Hamon, Génération-S car l’écologie politique est à mon sens indissociable de la solidarité.\nForte de ma résilience aux vicissitudes de l’existence et de mes valeurs, je souhaite continuer à m’investir civiquement pour porter notre collectif au succès pour une ambition citoyenne, qui soit digne de notre cité et de ses habitant(es)\_!\n\n"
+    - image: /img/chloe.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Agée de 26 ans, j’exerce le métier de pédicure podologue.
+
+        Sportive, je pratique le triathlon au club du Plessis-Robinson depuis
+        mon installation.  Malheureusement, je ne peux que constater que la
+        place du vélo dans notre commune n’est pas la priorité de la
+        municipalité sortante. Pourtant le maire avait l’opportunité de créer
+        facilement des voies cyclables sécurisées, sans rupture en lien avec les
+        villes voisines, particulièrement avec la ville de Sceaux à l’occasion
+        de la réfection des avenues Charles de Gaule et de la République. Si
+        cela avait été fait  à cette occasion, les robinsonnais pourraient
+        aujourd’hui faire du vélo en famille en toute sécurité pour rejoindre la
+        Coulée verte, le Parc de Sceaux ou le bois de Verrières, poumons verts
+        de notre territoire. Je déplore également le manque de stationnements
+        des 2 roues devant le marché ou devant les équipements publics de notre
+        commune. Il y a les discours du maire et la triste réalité de son action
+        sur la place du vélo qu’il offre dans notre ville. C’est pourquoi j’ai
+        décidé de rejoindre Ambition Citoyenne. Je donne toute ma confiance à
+        Christophe Leroy pour mettre en place une politique prenant en compte
+        les défis de l’écologie et pour favoriser les déplacements doux, non
+        polluant dans notre belle citée pour le bénéfice de tous.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
@@ -56,14 +81,14 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
+  - author: Elisabeth Kaurismäki
+    quote: >-
+      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+      the same thing I’ve been drinking every morning.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
