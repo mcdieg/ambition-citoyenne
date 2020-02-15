@@ -2,20 +2,17 @@
 templateKey: index-page
 title: Ambition Citoyenne
 image: /img/headerbis.jpg
-heading: Mettons du
+heading: Nos 6 propositions
 subheading: Mettons du coeur dans nos actions
 mainpitch:
-  title: Why Kaldi
+  title: 'Priorité au social et à l’écologie '
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Nous refusons la conception de l’action sociale et de l’écologie punitive,
+    moralisatrice, qui « accusent » , renvoient sur l’individu  la
+    responsabilité de sa situation. Nous mettrons en œuvre une action sociale et
+    écologique qui repose sur  une démarche concertée avec les services sociaux
+    et les associations.
+description: 'Nous formulons 6 propositions dans ce sens :'
 intro:
   blurbs:
     - image: /img/coffee.png
