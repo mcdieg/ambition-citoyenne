@@ -106,7 +106,7 @@ export default class Index extends React.Component {
                   </button>
                 </div>
               </form>
-              <div className="content">
+              <div className="content has-margin-4">
                 <h1>Nous soutenir</h1>
                 <div>
                   <p>
@@ -183,7 +183,6 @@ export default class Index extends React.Component {
                     <li>
                       Pour tout don, le mandataire a obligation légale d’inscrire, non seulement sur le reçu qui vous est renvoyé, mais aussi sur la souche du carnet des dons l'identité, la nationalité et l'adresse du domicile fiscal du donateur ou du cotisant. La souche comme le reçu indiquent également s'il s'agit d'un don ou d'une cotisation et mentionnent le montant, la date et le mode de règlement par chèque, espèces, carte bancaire, virement ou prélèvement automatique. 
                     </li>
-                    </li>
                     <li>
                       Lorsqu’une même personne physique effectue plusieurs versements à un mandataire, celui-ci peut émettre un seul reçu par type (don ou cotisation) et mode de versement (espèces, chèque, virement). Les justificatifs de recettes fournis doivent permettre de faire le lien entre le reçu émis et les différents versements (en cas de versements multiples, il convient de porter sur le reçu et la souche la date du dernier versement) 
                     </li>
@@ -206,6 +205,7 @@ export default class Index extends React.Component {
                   <p>
                     Conformément à la Loi Informatique et Liberté et au RGDP, vous disposez d’un droit d’opposition et d’un droit à la limitation du traitement de données vous concernant, ainsi que d’un droit d’accès, de rectification, de portabilité et d’effacement de vos données Vous pouvez exercer vos droits en adressant votre demande accompagnée d’une copie de votre pièce d’identité à l’adresse postale du Mandataire financier : Lucile Guérin, 8 avenue des Quatre Fusillés, 92290 Châtenay-Malabry.
                   </p>
+                </div>
               </div>
             </div>
           </div>
