@@ -106,7 +106,7 @@ export default class Index extends React.Component {
                   </button>
                 </div>
               </form>
-              <div className="content has-margin-4">
+              <div className="content has-margin-top-4">
                 <h1>Nous soutenir</h1>
                 <div>
                   <p>
