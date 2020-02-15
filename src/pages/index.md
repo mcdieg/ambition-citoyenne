@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Notre candidat tête de liste
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Ambition Citoyenne
+image: /img/header.jpg
+heading: Mettons du
+subheading: Mettons du coeur dans nos actions
 mainpitch:
   title: Why Kaldi
   description: >
