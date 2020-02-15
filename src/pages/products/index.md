@@ -52,12 +52,14 @@ intro:
         les défis de l’écologie et pour favoriser les déplacements doux, non
         polluant dans notre belle citée pour le bénéfice de tous.
     - image: /img/meeting-space.png
-      text: >
+      text: >-
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
+
+        ww
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
