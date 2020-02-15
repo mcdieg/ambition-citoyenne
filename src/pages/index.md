@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Ambition Citoyenne
-image: /img/header.jpg
+image: /img/headerbis.jpg
 heading: Mettons du
 subheading: Mettons du coeur dans nos actions
 mainpitch:
