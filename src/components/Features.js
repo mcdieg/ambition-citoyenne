@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import { v4 } from 'uuid'
 
 const FeatureGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
@@ -17,7 +18,12 @@ const FeatureGrid = ({ gridItems }) => (
               <PreviewCompatibleImage imageInfo={item} />
             </div>
           </div>
-          <p>{item.text}</p>
+          <article key={v4()} className="message">
+            <div className="message-body">
+              {item.text}
+              <br />
+            </div>
+          </article>
         </section>
       </div>
     ))}
