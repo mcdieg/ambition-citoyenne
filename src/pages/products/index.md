@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Notre collectif citoyen
-image: /img/image1.jpg
+image: /img/team.jpg
 heading: ' '
 description: ' '
 intro:
