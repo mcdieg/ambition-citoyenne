@@ -101,13 +101,17 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
-                  <button className="button is-link" type="submit">
+                  <button className="button is-link has-margin-bottom-5" type="submit">
                     Envoyer
                   </button>
                 </div>
               </form>
+            </div>
+          </div>
+          <div className="container">
+            <div className="content">
               <div className="content has-margin-top-4">
-                <h1>Nous soutenir</h1>
+                <h1 style={{marginTop: 20}}>Nous soutenir</h1>
                 <div>
                   <p>
                     <b>
