@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Notre collectif citoyen
-image: /img/jumbotron.jpg
+image: /img/image1.jpg
 heading: ' '
 description: ' '
 intro:
