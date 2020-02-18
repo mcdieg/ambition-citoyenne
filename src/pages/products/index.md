@@ -51,15 +51,24 @@ intro:
         Christophe Leroy pour mettre en place une politique prenant en compte
         les défis de l’écologie et pour favoriser les déplacements doux, non
         polluant dans notre belle citée pour le bénéfice de tous.
-    - image: /img/meeting-space.png
+    - image: /img/mariehelen.jpg
       text: >-
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        60 ans, mariée, un enfant, je suis Ingénieur de Recherche dans le
+        domaine aérospatial. J'habite le Plessis-Robinson depuis 1993. Que ce
+        soit dans ma vie professionnelle ou personnelle, j'ai toujours voulu
+        m'investir dans des organisations ayant une démarche collective et
+        centrée sur la défense des intérêts de toutes les catégories
+        sociales       (représentante de parents d'élèves FCPE au collège Romain
+        Rolland, adhérente au PS au sein de la section du Plessis-Robinson
+        jusqu'en 2016, élue CFDT au comité d'entreprise de ma société et
+        actuellement représentante salariée au conseil d'administration). 
 
-        ww
+        Dans cette logique, je souhaite continuer à m'impliquer dans la conduite
+        de la ville au sein de nôtre collectif  "Ambition Citoyenne". J'aspire à
+        un Plessis-Robinson moins densifié, avec des espaces de convialité et de
+        partage. Il est temps également pour les Robinsonnais de participer plus
+        activement à la prise de décisions concernant les projets pour leur
+        ville.              
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
