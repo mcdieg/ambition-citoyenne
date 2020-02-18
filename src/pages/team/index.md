@@ -113,17 +113,10 @@ main:
     et conviviale
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-<<<<<<< HEAD:src/pages/team/index.md
-    image: /img/team-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/team-grid2.jpg
-=======
     image: /img/headerbis.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/header3.jpg
->>>>>>> 5ce36547adfede2d9c81974546a71ba87aed7df2:src/pages/products/index.md
   image3:
     alt: Coffee beans
     image: /img/team-grid1.jpg
