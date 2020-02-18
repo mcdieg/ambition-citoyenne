@@ -129,7 +129,7 @@ testimonials:
     quote: >-
       The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
-full_image: /img/blog-index.jpg
+full_image: /img/reu pub 1er fev 3 floutage plus fort.jpeg
 pricing:
   heading: Monthly subscriptions
   description: >-
