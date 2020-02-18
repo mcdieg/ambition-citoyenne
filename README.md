@@ -48,7 +48,7 @@ $ yarn
 $ netlify dev # or ntl dev
 ```
 
-This uses the new [Netlify Dev](https://www.netlify.com/products/dev/?utm_source=blog&utm_medium=netlifycms&utm_campaign=devex) CLI feature to serve any functions you have in the `lambda` folder.
+This uses the new [Netlify Dev](https://www.netlify.com/team/dev/?utm_source=blog&utm_medium=netlifycms&utm_campaign=devex) CLI feature to serve any functions you have in the `lambda` folder.
 
 To test the CMS locally, you'll need run a production build of the site:
 
@@ -76,7 +76,7 @@ import IndexPagePreview from './preview-templates/IndexPagePreview'
 
 CMS.registerPreviewTemplate('index', IndexPagePreview)
 CMS.registerPreviewTemplate('about', AboutPagePreview)
-CMS.registerPreviewTemplate('products', ProductPagePreview)
+CMS.registerPreviewTemplate('team', ProductPagePreview)
 CMS.registerPreviewTemplate('blog', BlogPostPreview)
 ```
 
