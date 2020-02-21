@@ -7,6 +7,7 @@ import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 import logo from "../img/logo.png"
 import subheader from "../img/subheader.png"
+import Pillar from '../components/Pillar'
 
 
 export const IndexPageTemplate = ({
@@ -78,11 +79,11 @@ export const IndexPageTemplate = ({
                     <p>{description}</p>
                   </div>
                 </div>
-                <Features gridItems={intro.blurbs} />
+                <Pillar gridItems={intro.blurbs} />
                 <div className="columns">
-                  <div className="column is-12 has-text-centered">
+                  <div className="column is-18 has-text-centered">
                     <Link className="btn" to="/team">
-                      L'équipe
+                      Le collectif
                     </Link>
                   </div>
                 </div>
