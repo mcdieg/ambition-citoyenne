@@ -6,27 +6,6 @@ heading: ' '
 description: ' '
 intro:
   blurbs:
-    - image: /img/JeanFrancoisPAPOT.jpg
-      text: >-
-        45 ans, chef d’entreprise, marié et père de deux enfants, je vis au
-        Plessis-Robinson depuis 20 ans dans un appartement du Pierrier. Après
-        des études de mathématiques, j’ai choisi de devenir ingénieur.
-        Responsable de division d’une société de conseil industriel pendant dix
-        ans, j’ai préféré mettre mon énergie dans ma propre structure et
-        assister les entreprises et les collectivités dans la mise en œuvre du
-        développement durable à l’échelle du bâti et de la ville. J’y ai
-        constaté que la politique a un sens et que ses choix marquent
-        profondément et durablement l’orientation d’une ville.
-
-        Militant du Parti Socialiste, mon rôle d’élu de l’opposition au
-        Plessis-Robinson depuis 2014 s’inscrit de mes différents choix de vie.
-        Je crois que la politique s’enrichit de l’expérience de personnes issues
-        de la société civile et notamment du secteur privé. 
-
-        Ce sont mon énergie et cette expérience que je mets au service de
-        l’intérêt général, du Plessis-Robinson et de l’ambition citoyenne portée
-        et représentée par mon collègue sur les bancs de l’opposition Christophe
-        LEROY.
     - image: /img/NL.jpg
       text: "50 ans, célibataire, j’exerce aujourd’hui le métier de consultant à Boulogne Billancourt. J’habite dans la nouvelle Cité Jardin depuis 12 ans. En 2008, j’ai dû quitter la province dans le cadre d’une mobilité professionnelle. J’ai choisi de vivre au Plessis-Robinson en raison de la présence de parcs et jardins départementaux. La verdure et les arbres sont vitaux pour aérer mon existence. Je me suis rapidement investie localement dans des associations protectrices de l’environnement, du patrimoine et d’un urbanisme maîtrisé (association comité de Quartier le Chateaubriand pour le Panoramic-Ermitage et P.L.E.S.S.I.S) et ai également rejoint ensuite des associations d’usagers des transports.\nEn 2009, j’ai adhéré au nouveau rassemblement Europe Ecologie Les Verts qu’Eva Joly avait rejoint pour les élections européennes. En effet, outre des valeurs écologiques, l’éthique en politique est dans mon ADN.  Mon compte tweeter @Ethique92350 en porte le nom. Jusqu’en 2018, j’ai animé le site Europe Ecologie les Verts du Plessis-Robinson avant de rejoindre le mouvement crée par Benoit Hamon, Génération-S car l’écologie politique est à mon sens indissociable de la solidarité.\nForte de ma résilience aux vicissitudes de l’existence et de mes valeurs, je souhaite continuer à m’investir civiquement pour porter notre collectif au succès pour une ambition citoyenne, qui soit digne de notre cité et de ses habitant(es)\_!\n\n"
     - image: /img/Photo Didier Bernard.jpg
@@ -75,6 +54,27 @@ intro:
         ville.              
     - image: /img/Photo_EricRobert.jpg
       text: "Archéologue, enseignant-chercheur au Museum national d’Histoire naturelle, je suis un enfant du Plessis-Robinson. Ma famille s’y est installée en 1934 dans la Cité Basse qu’elle n’a jamais quittée. Ma mère a été professeur de français au collège Claude-Nicolas Ledoux pendant 20 ans, mon père un acteur citoyen et associatif important, notamment au sein du club de rugby, de la FCPE et du Parti Socialiste. \nJe suis attaché à l’enseignement et à l’école publique\_: ils méritent d’être au premier rang des investissements, à l’échelle de l’Etat comme d’une commune. Or au Plessis-Robinson, l’intérêt des enfants passe trop souvent après celui des promoteurs. Les cours et leurs espaces de vie, notamment celle de mon quartier, François Peatrik, sont régulièrement amputés au profit de programmes immobiliers. \nEngagé au Parti Socialiste, je revendique des valeurs de gauche, au premier rang desquelles la solidarité, l’une des priorités de la liste Ambition citoyenne. Parmi les actions à mettre en place, faire en sorte qu’enfin des logements soient réservés aux étudiant.e.s dans notre ville, pour répondre aux difficultés toujours plus importantes qu’ils et elles doivent rencontrer, avec la hausse constante des loyers et la baisse des APL décidée par le gouvernement Macron.  "
+    - image: /img/JeanFrancoisPAPOT.jpg
+      text: >-
+        45 ans, chef d’entreprise, marié et père de deux enfants, je vis au
+        Plessis-Robinson depuis 20 ans dans un appartement du Pierrier. Après
+        des études de mathématiques, j’ai choisi de devenir ingénieur.
+        Responsable de division d’une société de conseil industriel pendant dix
+        ans, j’ai préféré mettre mon énergie dans ma propre structure et
+        assister les entreprises et les collectivités dans la mise en œuvre du
+        développement durable à l’échelle du bâti et de la ville. J’y ai
+        constaté que la politique a un sens et que ses choix marquent
+        profondément et durablement l’orientation d’une ville.
+
+        Militant du Parti Socialiste, mon rôle d’élu de l’opposition au
+        Plessis-Robinson depuis 2014 s’inscrit de mes différents choix de vie.
+        Je crois que la politique s’enrichit de l’expérience de personnes issues
+        de la société civile et notamment du secteur privé. 
+
+        Ce sont mon énergie et cette expérience que je mets au service de
+        l’intérêt général, du Plessis-Robinson et de l’ambition citoyenne portée
+        et représentée par mon collègue sur les bancs de l’opposition Christophe
+        LEROY.
   heading: Le collectif ambition citoyenne avec Christophe Leroy
   description: |-
     Ensemble, inventons une ville durable, juste
