@@ -5,6 +5,9 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import logo from "../img/logo.png"
+import subheader from "../img/subheader.png"
+
 
 export const IndexPageTemplate = ({
   image,
@@ -36,19 +39,8 @@ export const IndexPageTemplate = ({
           flexDirection: 'column',
         }}
       >
-        <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
-          style={{
-            boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
-            color: 'white',
-            lineHeight: '1',
-            padding: '0.25em',
-          }}
-        >
-          {title}
-        </h1>
+        <img src={logo} alt="collectif citoyen" style={{ width: '400px', height: '150px' }} />
+        <img src={subheader} alt="collectif citoyen" style={{ width: '400px', height: '120px', marginTop: '2em' }} />
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
@@ -60,7 +52,7 @@ export const IndexPageTemplate = ({
             padding: '0.25em',
           }}
         >
-          {subheading}
+          Ensemble, inventons une ville durable juste et conviviale
         </h3>
       </div>
     </div>
