@@ -1,6 +1,12 @@
 import React from 'react'
 import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
+import { makeStyles } from '@material-ui/core/styles';
+import ExpansionPanel from '@material-ui/core/ExpansionPanel';
+import ExpansionPanelSummary from '@material-ui/core/ExpansionPanelSummary';
+import ExpansionPanelDetails from '@material-ui/core/ExpansionPanelDetails';
+import Typography from '@material-ui/core/Typography';
+import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 
 function encode(data) {
   return Object.keys(data)
@@ -40,79 +46,36 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>Nous contacter</h1>
-              <form
-                name="contact"
-                method="post"
-                action="/contact/thanks/"
-                data-netlify="true"
-                data-netlify-honeypot="bot-field"
-                onSubmit={this.handleSubmit}
-              >
-                {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
-                <input type="hidden" name="form-name" value="contact" />
-                <div hidden>
-                  <label>
-                    Don’t fill this out:{' '}
-                    <input name="bot-field" onChange={this.handleChange} />
-                  </label>
-                </div>
-                <div className="field">
-                  <label className="label" htmlFor={'name'}>
-                    Votre nom
-                  </label>
-                  <div className="control">
-                    <input
-                      className="input"
-                      type={'text'}
-                      name={'name'}
-                      onChange={this.handleChange}
-                      id={'name'}
-                      required={true}
-                    />
-                  </div>
-                </div>
-                <div className="field">
-                  <label className="label" htmlFor={'email'}>
-                    Votre adresse email
-                  </label>
-                  <div className="control">
-                    <input
-                      className="input"
-                      type={'email'}
-                      name={'email'}
-                      onChange={this.handleChange}
-                      id={'email'}
-                      required={true}
-                    />
-                  </div>
-                </div>
-                <div className="field">
-                  <label className="label" htmlFor={'message'}>
-                    Message
-                  </label>
-                  <div className="control">
-                    <textarea
-                      className="textarea"
-                      name={'message'}
-                      onChange={this.handleChange}
-                      id={'message'}
-                      required={true}
-                    />
-                  </div>
-                </div>
-                <div className="field">
-                  <button className="button is-link has-margin-bottom-5" type="submit">
-                    Envoyer
-                  </button>
-                </div>
-              </form>
+                <p>
+                  Vous souhaitez 
+                  Participer à notre campagne pour co-construire une Ambition Citoyenne pour la ville du Plessis-Robinson ;
+                  Proposer une idée ; 
+                  Nous interpeler ;
+                  ou tout simplement échanger
+
+                  Alors n’hésitez pas à nous contacter par mail ou par téléphone : 
+
+                  Mail : ambition.citoyenne@orange.fr
+                  Mobile : 07 89 28 77 02
+                </p>
             </div>
           </div>
           <div className="container">
             <div className="content">
               <div className="content has-margin-top-4">
                 <h1 style={{marginTop: 20}}>Nous soutenir</h1>
-                <div>
+                <div style={{ width: '100%' }}>
+                  <ExpansionPanel>
+                    <ExpansionPanelSummary
+                      expandIcon={<ExpandMoreIcon />}
+                      aria-controls="panel1a-content"
+                      id="panel1a-header"
+                    >
+                      <Typography >Lire les informations liées aux donations</Typography>
+                    </ExpansionPanelSummary>
+                    <ExpansionPanelDetails>
+                      <Typography>
+                      <div>
                   <p>
                     <b>
                       Vous souhaitez nous soutenir en participant aux dépenses de campagne, nous vous invitons à prendre connaissance au préalable de notre note au donateur pour conformité au cadre légal pour les dons.
@@ -210,6 +173,11 @@ export default class Index extends React.Component {
                     Conformément à la Loi Informatique et Liberté et au RGDP, vous disposez d’un droit d’opposition et d’un droit à la limitation du traitement de données vous concernant, ainsi que d’un droit d’accès, de rectification, de portabilité et d’effacement de vos données Vous pouvez exercer vos droits en adressant votre demande accompagnée d’une copie de votre pièce d’identité à l’adresse postale du Mandataire financier : Lucile Guérin, 8 avenue des Quatre Fusillés, 92290 Châtenay-Malabry.
                   </p>
                 </div>
+                      </Typography>
+                    </ExpansionPanelDetails>
+                  </ExpansionPanel>
+                </div>
+                
               </div>
             </div>
           </div>
