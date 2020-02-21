@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Ambition Citoyenne
-image: /img/header3.jpg
+image: /img/backrgoundouc.jpg
 heading: Nos 6 propositions
 subheading: Mettons du coeur dans nos actions
 mainpitch:
