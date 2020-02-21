@@ -7,6 +7,8 @@ import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import logo from '../img/logo.png'
+import parties from '../img/parties.png'
+import parties2 from '../img/parties2.png'
 
 export const ProductPageTemplate = ({
   image,
@@ -39,6 +41,10 @@ export const ProductPageTemplate = ({
               <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
               <p>{description}</p>
             </div>
+          </div>          
+          <div className="columns">
+            <div className="column is-7 is-offset-1">
+            </div>
           </div>
           <div className="columns">
             <div className="column is-10 is-offset-1">
@@ -48,8 +54,11 @@ export const ProductPageTemplate = ({
                     {main.heading}
                   </h3>
                   <p>{main.description}</p>
+                  <img src={parties} alt="collectif citoyen" style={{ width: '400px', height: '130px' }} />
+                  <img src={parties2} alt="collectif citoyen" style={{ width: '100px', height: '100px' }} />
                 </div>
               </div>
+
               <Features gridItems={intro.blurbs} />
               <div
                 className="full-width-image-container"
