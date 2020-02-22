@@ -8,7 +8,8 @@ import ExpansionPanelSummary from '@material-ui/core/ExpansionPanelSummary';
 import ExpansionPanelDetails from '@material-ui/core/ExpansionPanelDetails';
 import Typography from '@material-ui/core/Typography';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
-
+import Img from 'gatsby-image'
+import ReactMarkdown from 'react-markdown'
 const useStyles = makeStyles(theme => ({
   root: {
     width: '100%',
@@ -54,7 +55,6 @@ const Pillar = ({ gridItems }) => (
               </ExpansionPanelSummary>
               <ExpansionPanelDetails>
                 {/* <Typography> */}
-                {console.log(item)}
                   <div className="has-text-centered">
                     <div
                       style={{
@@ -63,12 +63,15 @@ const Pillar = ({ gridItems }) => (
                       }}
                     >
                     </div>
-                    <article key={v4()} className="message">
-                      <div className="message-body">
-                        {item.text}
+                    {/* <article key={v4()} className="message"> */}
+                      {/* <div content={item.text}>
                         <br />
-                      </div>
-                    </article>
+                      </div> */}
+                      <ReactMarkdown source={item.text} />
+                    {/* </article> */}
+                    {/* <PreviewCompatibleImage imageInfo={item} /> */}
+                    {/* <Img fluid={item.image2.childImageSharp.fluid} />
+                    {console.log(item.image2)} */}
                   </div>
                 {/* </Typography> */}
               </ExpansionPanelDetails>
@@ -85,7 +88,8 @@ Pillar.propTypes = {
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
       text: PropTypes.string,
-      title: PropTypes.string
+      title: PropTypes.string,
+      image2: PropTypes.oneOfType([PropTypes.object, PropTypes.string])
     })
   )
 }
