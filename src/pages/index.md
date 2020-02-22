@@ -121,13 +121,299 @@ intro:
 
         **Le reste n’est que littérature !**
       title: 'Un budget au profit des robinsonnais(e)s '
-    - image: /img/house.png
-      image2: /img/house.png
+    - image: /img/coeur.png
+      image2: /img/coeur.png
       text: >-
-        Nous favoriserons et subventionnerons au besoin, en lien avec le
-        territoire, une politique d’isolation et de rénovation de l’habitat
-        individuel et collectif.
-      title: test
+        ***En attendant notre programme, la tribune de nos élus de mai 2019, «
+        Fuite en avant et exclusion des classes moyennes … La politique urbaine
+        de la majorité est au service du budget !»***
+
+
+        Débattre du budget communal, c’est, en théorie, définir les moyens
+        envisagés au service d’une vision et donc de la construction de la cité.
+        Au Plessis-Robinson, et le Débat d’Orientation Budgétaire (DOB) du 21
+        mars en était une preuve, la majorité renverse la question :**comment
+        construire la ville pour qu’elle rapporte et qu’elle permette de
+        poursuivre la fuite en avant initiée depuis de nombreuses années ?**
+
+
+        Pourquoi ? Pieds et mains liés par le poids de la dette, la majorité
+        doit, chaque année, dégager un excédent de plus de 8 M€ pour rassurer
+        les banquiers et ainsi **financer la dette liée aux investissements mais
+        aussi les nombreux crédit-révolving** qui lissent les creux de
+        trésoreries liés en particulier aux achats de terrains.
+
+
+        Pour garantir cet excédent (capacité d’auto-financement),**la majorité a
+        augmenté les taux d’imposition, supprimé les abattements, augmenté les
+        tarifications de services …**A un an des élections, elle tente de se
+        racheter avec une baisse symbolique de la taxe foncière plus que
+        largement compensée par l’augmentation des bases décidées par
+        l’Etat.Malgré sa communication, **la majorité sait que la dette plombe
+        son bilan**. La preuve, elle vient de décider en avril de payer un
+        spécialiste pour tenter de régler ce que nous dénonçons depuis 5 ans !
+
+
+        En effet, alors que l’an dernier, au même DOB, la majorité promettait de
+        faire baisser de 15 à 20 M€ la dette communale (aujourd’hui plus de 73
+        M€ en intégrant les « *autres dettes* »), la réalité est plus cruelle :
+        si la commune a remboursé plus de 6,2 M€ (soit un coût de 8 M€ avec les
+        intérêts),**le stock de dettes n’a pas baissé en 2018**! A ce rythme là,
+        il faudra des années pour que la dette retrouve un niveau acceptable et
+        ce d’autant plus que **les investissements nécessaires**(comme la
+        réhabilitation de l’école François Peatrik) **restent à financer** et
+        que le pôle culturel, livré en 2016, n’est toujours pas totalement soldé
+        !
+
+
+        La majorité **mise sur l’immobilier à l’image d’un joueur en quête d’une
+        martingale**. Cette méthode n’est pas nouvelle, la majorité a commencé
+        par vendre le patrimoine public (le stade Anatole France pour faire le «
+        Cœur de ville », les terrains de sports au profit du racing, ...) mais
+        que faire lorsque le patrimoine historique a déjà été cédé ?Vendre ses
+        rues, comme c’est le cas actuellement dans le quartier Ledoux, est
+        efficace mais il faut quand même en conserver quelques unes… La réponse
+        est simple : profiter de sa position dominante pour acquérir des
+        terrains à vils prix, modifier les règles d’urbanisme pour que le prix
+        des terrains acquis augmente, et le tour est joué !
+
+
+        Mais quel tour ? **Bétonner la ville** sans se soucier des conséquences
+        sur la qualité de vie ? Faire **détruire des bâtiments réhabilités il y
+        a moins de quinze ans** pour reconstruire un nombre double de logements
+        ? Vendre deux fois plus cher que ne l’estime France Domaine les terrains
+        à son aménageur (la SEMPRO) qui vendra plus cher à son tour à des
+        promoteurs et doper ainsi le prix du foncier de manière artificielle ?
+
+
+        Avec quels résultats ? Avec un prix moyen dans le neuf de près de 6000€
+        au m²**, la ville devient inaccessible aux «classes moyennes»**. Le
+        logement social, conçu pour loger les moins favorisés est quasi
+        exclusivement fléché par la majorité vers la catégorie dite PLS (Prêt
+        Locatif Social) pour loger les familles dont les revenus sont trop
+        élevés pour pouvoir accéder aux locations HLM ordinaires, mais trop bas
+        pour pouvoir se loger dans le secteur privé. La double conséquence, en
+        souhaitant que cela n’en soit pas la cause, est évidente :**il devient
+        quasi-impossible de louer pour les plus pauvres et quasi impossible
+        d’acheter pour les moins riches**! Même ceux qui ont les moyens
+        d’acheter un logement ou qui sont installés depuis longtemps le savent :
+        leurs enfants ne pourront pas s’installer au Plessis-Robinson ou n’y
+        resteront qu’un temps, en location.
+
+
+        Bien sur, des familles s’installent au Plessis–Robinson, bien souvent en
+        location mais **combien doivent partir au premier ou au second enfant…
+        que cela soit faute de moyens ou faute d’équipements publics adaptés au
+        flux des nouveaux habitants ?**
+
+
+        Face à nos critiques, la majorité se gausse et nous reproche de nous
+        préoccuper des futurs habitants et ils ont, en partie raison ! Être élu
+        n’est pas, à notre sens, ne se préoccuper que des habitants présents,
+        fussent-ils électeurs, mais du bien-être commun.
+
+
+        Orienter aujourd’hui les décisions urbaines vers **la spéculation
+        immobilière expose la commune à des risques financiers** mais **établit
+        surtout une ségrégation par l’argent**. Qu’est ce qu’une ville qui ne
+        pense trouver son salut budgétaire qu’en **abusant de son statut de
+        législateur local sans se soucier d’exclure les moins aisés**, puis les
+        classes moyennes, puis ses enfants?**Qu’est ce qu’une ville qui bâtit
+        toujours plus de logements sans adapter les équipements ?**Qu’est ce
+        qu’une majorité municipale qui fait « des coups immobiliers » sans
+        prévoir la hausse des coûts de fonctionnement liés ?
+
+
+        Fondamentalement, le budget devrait être au service d’une vision
+        politique. Au Plessis-Robinson, **c’est bien le devenir de la ville que
+        la majorité met au service du budget** et en particulier de la dette.
+        Nous ne pouvons souscrire à cette logique !
+      title: Une ville conviviale et une démocratie locale au coeur de notre action
+    - image: /img/envir.png
+      image2: /img/envir.png
+      text: >-
+        ***En attendant le programme, la tribune de nos élus de l’été 2019, «La
+        vraie-fausse écologie de la majorité» et la tribune de nos élus
+        d'octobre 2019«A quand un plan de circulation douce ?»***
+
+
+        ## ***La vraie-fausse écologie de la majorité***
+
+
+        La majorité est très fière, à raison, du Règlement Local de Publicité de
+        notre commune qui limite les affiches intempestives sur le territoire de
+        notre commune.
+
+
+        Pourtant, pour annoncer les guinguettes ou les festivals organisés par
+        la ville, l**a majorité municipale cautionne dans les communes
+        limitrophes l’affichage sauvage, sur affiches ou sur cartons et même les
+        banderoles géantes sur l’A86 et le périphérique**. C’est l’exemple même
+        du « Pas dans mon jardin » consistant à refuser la pollution visuelle au
+        Plessis mais à la générer ailleurs !
+
+
+        Autre exemple de vraies fausses orientations, **le plan vélo de la
+        ville, annoncé depuis des années est toujours au point mort**. Ce n’est
+        pas parce que des silhouettes de vélos ont été ajoutées sur quelques
+        routes que la sécurité des cyclistes s’en voit améliorer. **A quand de
+        vraies pistes cyclables dédiées et une véritable interconnexion assurée
+        dans tous les quartiers de la ville?**
+
+
+        A quand des voies partagées dans toutes les rues communales, des
+        panneaux rappelant l’autorisation pour les vélos de circuler en sens
+        interdit dans les voies à sens unique ou la généralisation du tourne à
+        droite ? A quand des attaches vélos nombreux devant tous les équipements
+        publics ?
+
+
+        Enfin, alors que le bâtiment est le principal consommateur d’énergie,
+        **comment expliquer que les promoteurs puissent au Plessis-Robinson
+        construire des bâtiments seulement réglementaires**(RT 2012) alors qu’il
+        serait urgent de réduire autant les consommations que le mode
+        constructif pour en limiter le carbone ? Mais **pouvait on attendre
+        autre chose d’une majorité qui préfère détruire un quartier entier
+        plutôt que de le réhabiliter même partiellement…?**
+
+
+        ## ***A quand un plan de circulation douce ?***
+
+
+        **En août, un cycliste est mort écrasé par un camion**. L'enquête est en
+        cours mais cet événement remet en perspective la nécessité de penser un
+        réel plan vélo.
+
+
+        Or, **il y a les annonces de la municipalité et la dure réalité que nous
+        pouvons tous, malheureusement, constater** lorsque nous nous déplaçons
+        en vélo sur les voies de notre commune. Pour tous les amateurs de
+        cyclisme, atteindre le bois de Verrières en famille est plus que
+        périlleux pour ne pas écrire dangereux. Aujourd’hui, **notre commune ne
+        possède plus aucune piste cyclable en continu**. La végétation
+        débordante de nos ronds-points n’offre que très peu de visibilité aux
+        automobilistes, aux motards. Il en va de même, d’ailleurs, pour nos
+        passages piétons.Tout cet environnement défavorable complique fortement
+        la pratique du vélo et particulièrement pour nos plus jeunes cyclistes,
+        par nature plus vulnérables.
+
+
+        Quand est-ce que la municipalité va répondre à la demande montante
+        d’utiliser davantage les vélos dans nos déplacements urbains en offrant
+        également dans des lieux stratégiques et commerciaux des places de
+        stationnement protégées et identifiées ? **Quand aurons-nous un réel
+        plan de circulation douce élaboré en concertation avec la population
+        ?**Un plan de circulation, digne de ce nom, **sans coupure des pistes
+        cyclables et plus protégées**?
+      title: Une ville durable et l'écologie au coeur de notre action
+    - image: /img/old.png
+      image2: /img/old.png
+      text: >-
+        ***En attendant notre programme, la tribune de nos élus de mai 2019, «
+        Fuite en avant et exclusion des classes moyennes … La politique urbaine
+        de la majorité est au service du budget !»***
+
+
+        Débattre du budget communal, c’est, en théorie, définir les moyens
+        envisagés au service d’une vision et donc de la construction de la cité.
+        Au Plessis-Robinson, et le Débat d’Orientation Budgétaire (DOB) du 21
+        mars en était une preuve, la majorité renverse la question :**comment
+        construire la ville pour qu’elle rapporte et qu’elle permette de
+        poursuivre la fuite en avant initiée depuis de nombreuses années ?**
+
+
+        Pourquoi ? Pieds et mains liés par le poids de la dette, la majorité
+        doit, chaque année, dégager un excédent de plus de 8 M€ pour rassurer
+        les banquiers et ainsi **financer la dette liée aux investissements mais
+        aussi les nombreux crédit-révolving** qui lissent les creux de
+        trésoreries liés en particulier aux achats de terrains.
+
+
+        Pour garantir cet excédent (capacité d’auto-financement),**la majorité a
+        augmenté les taux d’imposition, supprimé les abattements, augmenté les
+        tarifications de services …**A un an des élections, elle tente de se
+        racheter avec une baisse symbolique de la taxe foncière plus que
+        largement compensée par l’augmentation des bases décidées par
+        l’Etat.Malgré sa communication, **la majorité sait que la dette plombe
+        son bilan**. La preuve, elle vient de décider en avril de payer un
+        spécialiste pour tenter de régler ce que nous dénonçons depuis 5 ans !
+
+
+        En effet, alors que l’an dernier, au même DOB, la majorité promettait de
+        faire baisser de 15 à 20 M€ la dette communale (aujourd’hui plus de 73
+        M€ en intégrant les « *autres dettes* »), la réalité est plus cruelle :
+        si la commune a remboursé plus de 6,2 M€ (soit un coût de 8 M€ avec les
+        intérêts),**le stock de dettes n’a pas baissé en 2018**! A ce rythme là,
+        il faudra des années pour que la dette retrouve un niveau acceptable et
+        ce d’autant plus que **les investissements nécessaires**(comme la
+        réhabilitation de l’école François Peatrik) **restent à financer** et
+        que le pôle culturel, livré en 2016, n’est toujours pas totalement soldé
+        !
+
+
+        La majorité **mise sur l’immobilier à l’image d’un joueur en quête d’une
+        martingale**. Cette méthode n’est pas nouvelle, la majorité a commencé
+        par vendre le patrimoine public (le stade Anatole France pour faire le «
+        Cœur de ville », les terrains de sports au profit du racing, ...) mais
+        que faire lorsque le patrimoine historique a déjà été cédé ?Vendre ses
+        rues, comme c’est le cas actuellement dans le quartier Ledoux, est
+        efficace mais il faut quand même en conserver quelques unes… La réponse
+        est simple : profiter de sa position dominante pour acquérir des
+        terrains à vils prix, modifier les règles d’urbanisme pour que le prix
+        des terrains acquis augmente, et le tour est joué !
+
+
+        Mais quel tour ? **Bétonner la ville** sans se soucier des conséquences
+        sur la qualité de vie ? Faire **détruire des bâtiments réhabilités il y
+        a moins de quinze ans** pour reconstruire un nombre double de logements
+        ? Vendre deux fois plus cher que ne l’estime France Domaine les terrains
+        à son aménageur (la SEMPRO) qui vendra plus cher à son tour à des
+        promoteurs et doper ainsi le prix du foncier de manière artificielle ?
+
+
+        Avec quels résultats ? Avec un prix moyen dans le neuf de près de 6000€
+        au m²**, la ville devient inaccessible aux «classes moyennes»**. Le
+        logement social, conçu pour loger les moins favorisés est quasi
+        exclusivement fléché par la majorité vers la catégorie dite PLS (Prêt
+        Locatif Social) pour loger les familles dont les revenus sont trop
+        élevés pour pouvoir accéder aux locations HLM ordinaires, mais trop bas
+        pour pouvoir se loger dans le secteur privé. La double conséquence, en
+        souhaitant que cela n’en soit pas la cause, est évidente :**il devient
+        quasi-impossible de louer pour les plus pauvres et quasi impossible
+        d’acheter pour les moins riches**! Même ceux qui ont les moyens
+        d’acheter un logement ou qui sont installés depuis longtemps le savent :
+        leurs enfants ne pourront pas s’installer au Plessis-Robinson ou n’y
+        resteront qu’un temps, en location.
+
+
+        Bien sur, des familles s’installent au Plessis–Robinson, bien souvent en
+        location mais **combien doivent partir au premier ou au second enfant…
+        que cela soit faute de moyens ou faute d’équipements publics adaptés au
+        flux des nouveaux habitants ?**
+
+
+        Face à nos critiques, la majorité se gausse et nous reproche de nous
+        préoccuper des futurs habitants et ils ont, en partie raison ! Être élu
+        n’est pas, à notre sens, ne se préoccuper que des habitants présents,
+        fussent-ils électeurs, mais du bien-être commun.
+
+
+        Orienter aujourd’hui les décisions urbaines vers**la spéculation
+        immobilière expose la commune à des risques financiers**mais**établit
+        surtout une ségrégation par l’argent**. Qu’est ce qu’une ville qui ne
+        pense trouver son salut budgétaire qu’en**abusant de son statut de
+        législateur local sans se soucier d’exclure les moins aisés**, puis les
+        classes moyennes, puis ses enfants?**Qu’est ce qu’une ville qui bâtit
+        toujours plus de logements sans adapter les équipements ?**Qu’est ce
+        qu’une majorité municipale qui fait « des coups immobiliers » sans
+        prévoir la hausse des coûts de fonctionnement liés ?
+
+
+        Fondamentalement, le budget devrait être au service d’une vision
+        politique. Au Plessis-Robinson, **c’est bien le devenir de la ville que
+        la majorité met au service du budget** et en particulier de la dette.
+        Nous ne pouvons souscrire à cette logique !
+      title: Une ville juste et une vraie mixité au coeur de notre action
     - image: /img/tree.png
       image2: /img/tree.png
       text: >-
@@ -283,250 +569,6 @@ intro:
         dépôt d’un permis de construire sans avoir même pu voir le projet
         repensé et ses impact par exemple sur la circulation du quartier?
       title: Un urbanisme maîtrisé et des équipements publics accessibles à tou(te)s
-    - image: /img/old.png
-      image2: /img/old.png
-      text: >-
-        ***En attendant notre programme, la tribune de nos élus de mai 2019, «
-        Fuite en avant et exclusion des classes moyennes … La politique urbaine
-        de la majorité est au service du budget !»***
-
-
-        Débattre du budget communal, c’est, en théorie, définir les moyens
-        envisagés au service d’une vision et donc de la construction de la cité.
-        Au Plessis-Robinson, et le Débat d’Orientation Budgétaire (DOB) du 21
-        mars en était une preuve, la majorité renverse la question :**comment
-        construire la ville pour qu’elle rapporte et qu’elle permette de
-        poursuivre la fuite en avant initiée depuis de nombreuses années ?**
-
-
-        Pourquoi ? Pieds et mains liés par le poids de la dette, la majorité
-        doit, chaque année, dégager un excédent de plus de 8 M€ pour rassurer
-        les banquiers et ainsi **financer la dette liée aux investissements mais
-        aussi les nombreux crédit-révolving** qui lissent les creux de
-        trésoreries liés en particulier aux achats de terrains.
-
-
-        Pour garantir cet excédent (capacité d’auto-financement),**la majorité a
-        augmenté les taux d’imposition, supprimé les abattements, augmenté les
-        tarifications de services …**A un an des élections, elle tente de se
-        racheter avec une baisse symbolique de la taxe foncière plus que
-        largement compensée par l’augmentation des bases décidées par
-        l’Etat.Malgré sa communication, **la majorité sait que la dette plombe
-        son bilan**. La preuve, elle vient de décider en avril de payer un
-        spécialiste pour tenter de régler ce que nous dénonçons depuis 5 ans !
-
-
-        En effet, alors que l’an dernier, au même DOB, la majorité promettait de
-        faire baisser de 15 à 20 M€ la dette communale (aujourd’hui plus de 73
-        M€ en intégrant les « *autres dettes* »), la réalité est plus cruelle :
-        si la commune a remboursé plus de 6,2 M€ (soit un coût de 8 M€ avec les
-        intérêts),**le stock de dettes n’a pas baissé en 2018**! A ce rythme là,
-        il faudra des années pour que la dette retrouve un niveau acceptable et
-        ce d’autant plus que **les investissements nécessaires**(comme la
-        réhabilitation de l’école François Peatrik) **restent à financer** et
-        que le pôle culturel, livré en 2016, n’est toujours pas totalement soldé
-        !
-
-
-        La majorité **mise sur l’immobilier à l’image d’un joueur en quête d’une
-        martingale**. Cette méthode n’est pas nouvelle, la majorité a commencé
-        par vendre le patrimoine public (le stade Anatole France pour faire le «
-        Cœur de ville », les terrains de sports au profit du racing, ...) mais
-        que faire lorsque le patrimoine historique a déjà été cédé ?Vendre ses
-        rues, comme c’est le cas actuellement dans le quartier Ledoux, est
-        efficace mais il faut quand même en conserver quelques unes… La réponse
-        est simple : profiter de sa position dominante pour acquérir des
-        terrains à vils prix, modifier les règles d’urbanisme pour que le prix
-        des terrains acquis augmente, et le tour est joué !
-
-
-        Mais quel tour ? **Bétonner la ville** sans se soucier des conséquences
-        sur la qualité de vie ? Faire **détruire des bâtiments réhabilités il y
-        a moins de quinze ans** pour reconstruire un nombre double de logements
-        ? Vendre deux fois plus cher que ne l’estime France Domaine les terrains
-        à son aménageur (la SEMPRO) qui vendra plus cher à son tour à des
-        promoteurs et doper ainsi le prix du foncier de manière artificielle ?
-
-
-        Avec quels résultats ? Avec un prix moyen dans le neuf de près de 6000€
-        au m²**, la ville devient inaccessible aux «classes moyennes»**. Le
-        logement social, conçu pour loger les moins favorisés est quasi
-        exclusivement fléché par la majorité vers la catégorie dite PLS (Prêt
-        Locatif Social) pour loger les familles dont les revenus sont trop
-        élevés pour pouvoir accéder aux locations HLM ordinaires, mais trop bas
-        pour pouvoir se loger dans le secteur privé. La double conséquence, en
-        souhaitant que cela n’en soit pas la cause, est évidente :**il devient
-        quasi-impossible de louer pour les plus pauvres et quasi impossible
-        d’acheter pour les moins riches**! Même ceux qui ont les moyens
-        d’acheter un logement ou qui sont installés depuis longtemps le savent :
-        leurs enfants ne pourront pas s’installer au Plessis-Robinson ou n’y
-        resteront qu’un temps, en location.
-
-
-        Bien sur, des familles s’installent au Plessis–Robinson, bien souvent en
-        location mais **combien doivent partir au premier ou au second enfant…
-        que cela soit faute de moyens ou faute d’équipements publics adaptés au
-        flux des nouveaux habitants ?**
-
-
-        Face à nos critiques, la majorité se gausse et nous reproche de nous
-        préoccuper des futurs habitants et ils ont, en partie raison ! Être élu
-        n’est pas, à notre sens, ne se préoccuper que des habitants présents,
-        fussent-ils électeurs, mais du bien-être commun.
-
-
-        Orienter aujourd’hui les décisions urbaines vers**la spéculation
-        immobilière expose la commune à des risques financiers**mais**établit
-        surtout une ségrégation par l’argent**. Qu’est ce qu’une ville qui ne
-        pense trouver son salut budgétaire qu’en**abusant de son statut de
-        législateur local sans se soucier d’exclure les moins aisés**, puis les
-        classes moyennes, puis ses enfants?**Qu’est ce qu’une ville qui bâtit
-        toujours plus de logements sans adapter les équipements ?**Qu’est ce
-        qu’une majorité municipale qui fait « des coups immobiliers » sans
-        prévoir la hausse des coûts de fonctionnement liés ?
-
-
-        Fondamentalement, le budget devrait être au service d’une vision
-        politique. Au Plessis-Robinson, **c’est bien le devenir de la ville que
-        la majorité met au service du budget** et en particulier de la dette.
-        Nous ne pouvons souscrire à cette logique !
-      title: Une ville juste et une vraie mixité au coeur de notre action
-    - image: /img/coeur.png
-      image2: /img/coeur.png
-      text: >-
-        ***En attendant le programme,la tribune de nos élus de Janvier 2020 :
-        «Pour une gouvernance transparente et citoyenne »et la tribune de nos
-        élus d'octobre 2019 «Quelle démocratie locale au Plessis-Robinson ?»***
-
-
-        Force est de constater que **nombre de projets au Plessis-Robinson sont
-        élaborés en catimini** et dévoilés au dernier moment quand il est trop
-        tard pour en discuter. On peut citer en exemple les projets de Noveosou
-        de réhabilitation de l’école François Peatrik. Les citoyens aspirent à
-        participer à ces projets et ne souhaitent pas les découvrir grâce aux
-        voisins ou à la famille.**Ces projets apportent des bouleversements,
-        tant sur le plan résidentiel que sur le plan de circulation et les
-        Robinsonnais sont mis devant le fait accompli**.
-
-
-        Dans les mois qui viennent, il y aura des débats sur l’avenir du
-        Plessis-Robinson. **Va-t-on continuer à densifier à tout va sachant
-        qu’il est prévu que la ville atteigne les 45 000 habitants ?**Avec le
-        projet Noveos ce seuil devrait être atteint. Y a-t-il d’autres projets
-        dans les cartons ?
-
-
-        En ce qui concerne l’école François Peatrik, les projets de travaux se
-        suivent et ne se ressemblent pas.
-
-
-        Depuis que nous avons eu la présentation des constructions / travaux sur
-        l’emplacement de l’école, des modifications sont intervenues :
-
-
-        * La construction d’une crèche,
-
-        * Peut-être un deuxième sous-sol de parkings sous les logements,
-
-        * L’édification d’une rivière entre l’école et les logements.
-
-
-        La municipalité avait organisé 2 réunions publiques pour les parents en
-        juin. Début juillet, elle a dû en organiser une 3e pour les habitants
-        des pavillons alentours, **inquiets de l’absence de plan de
-        circulation** et des informations données : suppression des emplacements
-        de parkings de la rue Joseph Lahuec, derrière l’immeuble « Les Lunettes
-        » ; sortie de l’ensemble du trafic entre l’immeuble et le pavillon situé
-        au 15 avenue de la République, **passage étroit et sans trottoir pour
-        les piétons et poussettes**; inquiétude sur la **quantité du trafic
-        généré par l’école, la maison des Associations, les logements et la
-        crèche**.
-
-
-        Lors de la réunion de juillet, en présence de M. Pemezec, sénateur, d’un
-        responsable des travaux à la mairie, d’un architecte en lien avec le
-        promoteur, et en l’absence de M. Perrin, Maire, qui doit pourtant signer
-        les documents. Ceux-ci ont pu entendre les interrogations et craintes
-        des riverains. Une nouvelle réunion doit être programmée en septembre.
-      title: Une ville conviviale et une démocratie locale au coeur de notre action
-    - image: /img/envir.png
-      image2: /img/envir.png
-      text: >-
-        ***En attendant le programme, la tribune de nos élus de l’été 2019, «La
-        vraie-fausse écologie de la majorité» et la tribune de nos élus
-        d'octobre 2019«A quand un plan de circulation douce ?»***
-
-
-        ## ***La vraie-fausse écologie de la majorité» et la tribune de nos élus
-        d'octobre 2019***
-
-
-        La majorité est très fière, à raison, du Règlement Local de Publicité de
-        notre commune qui limite les affiches intempestives sur le territoire de
-        notre commune.
-
-
-        Pourtant, pour annoncer les guinguettes ou les festivals organisés par
-        la ville, **la majorité municipale cautionne dans les communes
-        limitrophes l’affichage sauvage, sur affiches ou sur cartons et même les
-        banderoles géantes sur l’A86 et le périphérique**. C’est l’exemple même
-        du « Pas dans mon jardin » consistant à refuser la pollution visuelle au
-        Plessis mais à la générer ailleurs !
-
-
-        Autre exemple de vraies fausses orientations, **le plan vélo de la
-        ville, annoncé depuis des années est toujours au point mort**. Ce n’est
-        pas parce que des silhouettes de vélos ont été ajoutées sur quelques
-        routes que la sécurité des cyclistes s’en voit améliorer.**A quand de
-        vraies pistes cyclables dédiées et une véritable interconnexion assurée
-        dans tous les quartiers de la ville?**
-
-
-        A quand des voies partagées dans toutes les rues communales, des
-        panneaux rappelant l’autorisation pour les vélos de circuler en sens
-        interdit dans les voies à sens unique ou la généralisation du tourne à
-        droite ? A quand des attaches vélos nombreux devant tous les équipements
-        publics ?
-
-
-        Enfin, alors que le bâtiment est le principal consommateur d’énergie,
-        **comment expliquer que les promoteurs puissent au Plessis-Robinson
-        construire des bâtiments seulement réglementaires**(RT 2012) alors qu’il
-        serait urgent de réduire autant les consommations que le mode
-        constructif pour en limiter le carbone ? Mais **pouvait on attendre
-        autre chose d’une majorité qui préfère détruire un quartier entier
-        plutôt que de le réhabiliter même partiellement…?**
-
-
-        ## ***A quand un plan de circulation douce ?***
-
-
-        **En août, un cycliste est mort écrasé par un camion**. L'enquête est en
-        cours mais cet événement remet en perspective la nécessité de penser un
-        réel plan vélo.
-
-
-        Or, **il y a les annonces de la municipalité et la dure réalité que nous
-        pouvons tous, malheureusement, constater** lorsque nous nous déplaçons
-        en vélo sur les voies de notre commune. Pour tous les amateurs de
-        cyclisme, atteindre le bois de Verrières en famille est plus que
-        périlleux pour ne pas écrire dangereux. Aujourd’hui, **notre commune ne
-        possède plus aucune piste cyclable en continu**. La végétation
-        débordante de nos ronds-points n’offre que très peu de visibilité aux
-        automobilistes, aux motards. Il en va de même, d’ailleurs, pour nos
-        passages piétons.Tout cet environnement défavorable complique fortement
-        la pratique du vélo et particulièrement pour nos plus jeunes cyclistes,
-        par nature plus vulnérables.
-
-
-        Quand est-ce que la municipalité va répondre à la demande montante
-        d’utiliser davantage les vélos dans nos déplacements urbains en offrant
-        également dans des lieux stratégiques et commerciaux des places de
-        stationnement protégées et identifiées ? **Quand aurons-nous un réel
-        plan de circulation douce élaboré en concertation avec la population
-        ?**Un plan de circulation, digne de ce nom, **sans coupure des pistes
-        cyclables et plus protégées**?
-      title: Une ville durable et l'écologie au coeur de notre action
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
