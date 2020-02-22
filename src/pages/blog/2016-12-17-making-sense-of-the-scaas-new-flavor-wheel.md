@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Distribution du tract sur le vélo le 22 février - Priorité vélo
 date: 2016-12-17T15:04:10.000Z
 description: ' '
-featuredpost: false
+featuredpost: true
 featuredimage: /img/bike lane.jpg
 tags:
   - Vélo
