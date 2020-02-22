@@ -7,8 +7,7 @@ import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import logo from '../img/logo.png'
-import parties from '../img/parties.png'
-import parties2 from '../img/parties2.png'
+import logos from '../img/logos.jpg'
 
 export const ProductPageTemplate = ({
   image,
@@ -54,8 +53,7 @@ export const ProductPageTemplate = ({
                     {main.heading}
                   </h3>
                   <p>{main.description}</p>
-                  <img src={parties} alt="collectif citoyen" style={{ width: '400px', height: '130px' }} />
-                  <img src={parties2} alt="collectif citoyen" style={{ width: '100px', height: '100px' }} />
+                  <img src={logos} alt="collectif citoyen" style={{ width: '1000px', height: '130px' }} />
                 </div>
               </div>
 
