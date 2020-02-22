@@ -2,7 +2,7 @@
 templateKey: candidate-page
 title: Ambition Citoyenne
 image: /img/backrgoundouc.jpg
-heading: Nos 6 propositions
+heading: 'Notre candidat tête de liste, Christophe Leroy'
 subheading: Mettons du coeur dans nos actions
 mainpitch:
   title: 'Priorité au social et à l’écologie '
@@ -12,46 +12,25 @@ mainpitch:
     responsabilité de sa situation. Nous mettrons en œuvre une action sociale et
     écologique qui repose sur  une démarche concertée avec les services sociaux
     et les associations.
-description: 'Nous formulons 6 propositions dans ce sens :'
+description: >-
+  Le 10 décembre,  des citoyens engagés dans la vie locale, des représentants
+  d’Europe Ecologie Les Verts, de Génération.s, de la France Insoumise, du parti
+  Communiste, du Parti de Gauche et du Parti Socialiste se sont rencontrés. 
+  L’objectif était de construire une liste de  rassemblement afin de  permettre
+  aux électrices et électeurs Robinsonnais qui aspirent à une alternative
+  écologiste et de gauche à la politique de la majorité municipale de s’exprimer
+  en mars prochain.   Après nos échanges et à la demande des participants,  j’ai
+  accepté de prendre la tête de cette  liste.     A mon sens, et j’en serai le
+  garant, cette campagne doit être collective, à plusieurs voix et dans la
+  diversité des sensibilités rassemblées. « La qualité de cette liste citoyenne
+  sera la richesse de sa diversité. »   L’ambition citoyenne que nous vous
+  proposons ne reposera ni sur un seul homme, ni sur un socle idéologique prêt à
+  l’emploi, mais bien sur une équipe de femmes et d’hommes aux parcours divers
+  dont vous pouvez faire partie.    Ensemble, nous pourrons répondre au besoin
+  d’égalité sociale et territoriale, contre-pied de la compétitivité, au plus
+  près des exigences populaires contre l’austérité 
 intro:
-  blurbs:
-    - image: /img/care.png
-      text: >+
-        Nous appliquerons le quotient familial pour toutes les prestations
-        municipales avec prise en compte dans les critères du statut
-        monoparental.
-
-    - image: /img/house.png
-      text: >-
-        Nous favoriserons et subventionnerons au besoin, en lien avec le
-        territoire, une politique d’isolation et de rénovation de l’habitat
-        individuel et collectif.
-    - image: /img/tree.png
-      text: >
-        Nous reconsidèrerons les projets de destruction de logements sociaux
-        (ex. Ledoux), non sens social et écologique, pour le maintien des
-        espaces verts publics et une maîtrise du foncier. Nous proposerons de
-        l’habitat social diversifié et de qualité, qui baissera la pression
-        spéculative sur les loyers et sur le prix de l’immobilier (logements et
-        commerces).
-    - image: /img/old.png
-      text: >
-        Nous agirons pour la création d’un service public du 4e âge impliquant
-        le soutien aux aidants, un réseau social et médical pour le maintien à
-        domicile et nous participerons à des actions pour faire baisser le coût
-        des EPAHD.
-    - image: /img/coeur.png
-      text: >
-        Nous viserons l’objectif Ville Santé de l’OMS (Organisation mondiale de
-        la Santé) avec la mise en réseau de toutes les ressources santé du
-        territoire, la définition d’un Plan Local de Santé Environnementale
-        répertoriant les pollutions liées à toutes les activités. Nous nous
-        impliquerons dans des actions contre les fermetures de services médicaux
-        dans les hôpitaux.
-    - image: /img/envir.png
-      text: >-
-        Nous mènerons une action éducative de sensibilisation aux enjeux
-        environnementaux.
+  blurbs: []
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -59,12 +38,27 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Rassembler autour des valeurs écologiques et de gauche
+  description: >+
+
+    Si vous voulez : Remettre de la nature en ville ; Faire le choix de la
+    participation citoyenne ; Réduire la dette pour remettre le budget au
+    service des Robinsonnais ; Rendre plus juste et plus équitable la politique
+    communale ; Généraliser le quotient familial ; Favoriser les emplois et
+    commerces locaux ; Développer les pistes cyclables, les parkings vélos  et
+    les transports en commun ; Stopper les démolitions et la densification ; …
+
+
+    Alors, je vous invite à nous rejoindre pour que, fort de votre ambition
+    citoyenne, nous soyons ensemble acteurs du changement pour répondre aux
+    défis et aux urgences écologiques, sociales et démocratiques qui se posent
+    au Plessis-Robinson.
+
+
+
+    Mettons du cœur dans nos actions !
+
+
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/team-grid3.jpg
