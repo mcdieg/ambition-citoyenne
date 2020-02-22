@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Ambition Citoyenne
 image: /img/backrgoundouc.jpg
-heading: Nos 6 propositions
+heading: Nos 5 piliers
 subheading: Mettons du coeur dans nos actions
 mainpitch:
   title: 'Priorité au social et à l’écologie '
@@ -12,7 +12,7 @@ mainpitch:
     responsabilité de sa situation. Nous mettrons en œuvre une action sociale et
     écologique qui repose sur  une démarche concertée avec les services sociaux
     et les associations.
-description: 'Nous formulons 6 propositions dans ce sens :'
+description: Pour changer le Plessis Robinson
 intro:
   blurbs:
     - image: /img/care.png
