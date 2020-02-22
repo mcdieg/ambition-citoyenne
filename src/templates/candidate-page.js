@@ -9,6 +9,7 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import logo from '../img/logo.png'
 import parties from '../img/parties.png'
 import parties2 from '../img/parties2.png'
+import candidat from '../img/candidat.jpg'
 
 export const CandidatePageTemplate = ({
   image,
@@ -40,6 +41,7 @@ export const CandidatePageTemplate = ({
             <div className="column is-7 is-offset-1">
               <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
               <p>{description}</p>
+              <img src={candidat} alt="collectif citoyen" style={{ width: '450px', height: '450px' }} />
             </div>
           </div>          
           <div className="columns">
@@ -50,6 +52,7 @@ export const CandidatePageTemplate = ({
             <div className="column is-10 is-offset-1">
               <div className="columns">
                 <div className="column is-7">
+
                   <h3 className="has-text-weight-semibold is-size-3">
                     {main.heading}
                   </h3>
