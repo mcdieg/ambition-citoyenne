@@ -75,6 +75,23 @@ intro:
       text: "Archéologue, enseignant-chercheur au Museum national d’Histoire naturelle, je suis un enfant du Plessis-Robinson. Ma famille s’y est installée en 1934 dans la Cité Basse qu’elle n’a jamais quittée. Ma mère a été professeur de français au collège Claude-Nicolas Ledoux pendant 20 ans, mon père un acteur citoyen et associatif important, notamment au sein du club de rugby, de la FCPE et du Parti Socialiste. \nJe suis attaché à l’enseignement et à l’école publique\_: ils méritent d’être au premier rang des investissements, à l’échelle de l’Etat comme d’une commune. Or au Plessis-Robinson, l’intérêt des enfants passe trop souvent après celui des promoteurs. Les cours et leurs espaces de vie, notamment celle de mon quartier, François Peatrik, sont régulièrement amputés au profit de programmes immobiliers. \nEngagé au Parti Socialiste, je revendique des valeurs de gauche, au premier rang desquelles la solidarité, l’une des priorités de la liste Ambition citoyenne. Parmi les actions à mettre en place, faire en sorte qu’enfin des logements soient réservés aux étudiant.e.s dans notre ville, pour répondre aux difficultés toujours plus importantes qu’ils et elles doivent rencontrer, avec la hausse constante des loyers et la baisse des APL décidée par le gouvernement Macron.  "
     - image: /img/Photo Didier Bernard.jpg
       text: "64 ans retraité de la fonction publique territorial, coordinateur des services Enfance Jeunesse et enseignement de la ville du Plessis Robinson, puis directeur d’un centre Social et Culturel,  j’ai fini ma carrière comme  responsable des activités périscolaires, centre de vacances et classes de découverte  de la ville de Bagneux.\nEn marge de mes activités professionnelles j’ai aussi été pendant des années président de la Fédération des Conseils de Parents d’Elèves des Hauts de Seine.\nDepuis toujours j’ai eu une passion pour le sport, la formation et l’éducation populaire\nJ’ai ainsi été rugbyman eu sein du CSMPR section rugby ou j’ai été Educateur des enfants (mini poussins a moins de 14 ans), puis responsable de l’Ecole de Rugby.\nJe suis ensuite devenu président de l Entente Plessis Robinson Meudon Rugby aux cotés du regretté Pierre CETTOUR ROSE, ce qui m’a conduit à m’investir dans le Conseil Départemental de Rugby des Hauts de Seine dont je suis actuellement Vice Président.\nC’est pour promouvoir les valeurs qui ont bâties mon parcours personnel et professionnel que j’ai décidé de m’engager dans la liste «\_Ambition Citoyenne\_»"
+    - image: /img/elianemorin.png
+      text: >
+        Arrivée en 2000 au Plessis Robinson,  Eliane MORIN , Parti de Gauche,
+        France Insoumise,professeur des écoles en retraite , Syndiquée à la FSU.
+
+        En tant qu’ancienne enseignante, je veux me battre pour le bien-être de
+        nos enfants. Il faut construire des écoles à taille humaine  afin
+        d’éviter des « écoles usines ». Embaucher des AVS (Auxiliaire de vie
+        scolaire) bien rémunéré(e)s.
+
+        Dans les crèches, plus de personnel. Non à la rentabilité au dépend des
+        petits. 
+
+        Pour nos jeunes, il faudrait leur réserver des salles afin qu’ils
+        puissent se rencontrer, jouer de la musique, discuter entre eux. Il
+        serait bon de faire des conseils de jeunes afin qu’ils puissent
+        s’exprimer.
   heading: Le collectif ambition citoyenne avec Christophe Leroy
   description: |-
     Ensemble, inventons une ville durable, juste
