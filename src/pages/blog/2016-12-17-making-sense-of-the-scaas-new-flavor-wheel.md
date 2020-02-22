@@ -4,22 +4,16 @@ title: Distribution du tract sur le vélo le 22 février - Priorité vélo
 date: 2016-12-17T15:04:10.000Z
 description: ' '
 featuredpost: true
-featuredimage: /img/bike lane.jpg
+featuredimage: /img/phtoto22fév2020 tractvélo.jpg
 tags:
   - Vélo
   - Plessis Robinson
 ---
-
-
-![flavor wheel](/img/bike lane.jpg)
+![flavor wheel]()
 
 ## Madame, Monsieur,
 
 La dernière enquête de 2019 du baromètre des villes cyclables est sans appel avec une note F, défavorable, pour notre ville du Plessis-Robinson.
-
-
-
-
 
 ![climat velo](/img/image2.png)
 
@@ -28,8 +22,6 @@ La dernière enquête de 2019 du baromètre des villes cyclables est sans appel 
 Notre ambition citoyenne pour les mobilités douces au Plessis-Robinson est de viser la même note que celle de la ville de Sceaux : note B favorable.
 
 Je vous invite à prendre connaissance de nos 12 propositions pour répondre aux attentes des robinsonnais pour un plan vélo digne de notre ville.
-
-
 
 ## Nos 12 propositions pour les cyclistes
 
