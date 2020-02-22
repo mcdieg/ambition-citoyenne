@@ -16,12 +16,14 @@ description: Pour changer le Plessis Robinson
 intro:
   blurbs:
     - image: /img/care.png
+      title: test
       text: >+
         Nous appliquerons le quotient familial pour toutes les prestations
         municipales avec prise en compte dans les critères du statut
         monoparental.
 
     - image: /img/house.png
+      title: test
       text: >-
         Nous favoriserons et subventionnerons au besoin, en lien avec le
         territoire, une politique d’isolation et de rénovation de l’habitat
@@ -35,12 +37,14 @@ intro:
         spéculative sur les loyers et sur le prix de l’immobilier (logements et
         commerces).
     - image: /img/old.png
+      title: test
       text: >
         Nous agirons pour la création d’un service public du 4e âge impliquant
         le soutien aux aidants, un réseau social et médical pour le maintien à
         domicile et nous participerons à des actions pour faire baisser le coût
         des EPAHD.
     - image: /img/coeur.png
+      title: test
       text: >
         Nous viserons l’objectif Ville Santé de l’OMS (Organisation mondiale de
         la Santé) avec la mise en réseau de toutes les ressources santé du

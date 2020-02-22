@@ -19,40 +19,9 @@ const useStyles = makeStyles(theme => ({
   },
 }));
 
-const Pillar = ({ items }) => (
+const Pillar = ({ gridItems }) => (
   <div className="columns is-multiline">
-    {[
-    {
-      text: "Une ville conviviale et une démocratie locale au coeur de notre action",
-      logo: '',
-      img: '',
-      link: ''
-    },
-    {
-      text: "Une ville durable et l'écologie au coeur de notre action",
-      logo: '',
-      img: '',
-      link: ''
-    },
-    {
-      text: "Une ville juste et une vraie mixité au coeur de notre action",
-      logo: '',
-      img: '',
-      link: ''
-    },
-    {
-      text: "Un urbanisme maîtrisé et des équipements publics accessibles à tou(te)s",
-      logo: '',
-      img: '',
-      link: ''
-    },
-    {
-      text: "Un budget au profit des robinsonnais(e)s",
-      logo: '',
-      img: '',
-      link: ''
-    }
-  ].map(item => (
+    {gridItems.map(item => (
       <div key={item.text} className="column is-6">
         <section className="section">
           <div className="has-text-centered">
@@ -64,10 +33,6 @@ const Pillar = ({ items }) => (
             >
               {/* <PreviewCompatibleImage imageInfo={item} /> */}
             </div>
-            <h3 className="message-body">
-              <b>{item.text}</b>
-              <br />
-            </h3>
           </div>
           <article key={v4()} className="message">
           </article>
@@ -78,13 +43,34 @@ const Pillar = ({ items }) => (
                 aria-controls="panel1a-content"
                 id="panel1a-header"
               >
-                <Typography >Panneau 1</Typography>
+                <Typography >
+                  <div className="has-text-centered">
+                    <h3>
+                      {item.title}
+                    </h3>
+                    <PreviewCompatibleImage imageInfo={item} />
+                  </div>
+                </Typography>
               </ExpansionPanelSummary>
               <ExpansionPanelDetails>
-                <Typography>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex,
-                  sit amet blandit leo lobortis eget.
-                </Typography>
+                {/* <Typography> */}
+                {console.log(item)}
+                  <div className="has-text-centered">
+                    <div
+                      style={{
+                        width: '240px',
+                        display: 'inline-block',
+                      }}
+                    >
+                    </div>
+                    <article key={v4()} className="message">
+                      <div className="message-body">
+                        {item.text}
+                        <br />
+                      </div>
+                    </article>
+                  </div>
+                {/* </Typography> */}
               </ExpansionPanelDetails>
             </ExpansionPanel>
           </div>
@@ -99,6 +85,7 @@ Pillar.propTypes = {
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
       text: PropTypes.string,
+      title: PropTypes.string
     })
   )
 }
