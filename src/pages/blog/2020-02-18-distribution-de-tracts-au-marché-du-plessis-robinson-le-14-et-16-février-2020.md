@@ -10,5 +10,11 @@ featuredimage: /img/14 fév 20200214_112936.jpeg
 tags:
   - Plessis Robinson
   - Marché
+  - social
+  - écologie
 ---
+![Social et écologie](/img/prof de foi recto.png "Présentation de notre candidat")
+
+![](/img/social et écologie verso.png)
+
 Le collectif citoyen en action.
