@@ -22,7 +22,7 @@ export const CandidatePageTemplate = ({
   pricing,
 }) => (
   <div className="content">
-    <div
+    {/* <div
       className="full-width-image-container margin-top-0"
       style={{
         backgroundImage: `url(${
@@ -32,7 +32,7 @@ export const CandidatePageTemplate = ({
     >
     <img src={logo} alt="collectif citoyen" style={{ width: '400px', height: '150px' }} />
 
-    </div>
+    </div> */}
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
@@ -60,7 +60,7 @@ export const CandidatePageTemplate = ({
               </div>
 
               <Features gridItems={intro.blurbs} />
-              <div
+              {/* <div
                 className="full-width-image-container"
                 style={{
                   backgroundImage: `url(${
@@ -69,7 +69,7 @@ export const CandidatePageTemplate = ({
                       : fullImage
                   })`,
                 }}
-              />
+              /> */}
             </div>
           </div>
         </div>
@@ -134,7 +134,7 @@ export default CandidatePage
 
 export const candidatePageQuery = graphql`
   query CandidatePageTemplate {
-    markdownRemark(frontmatter: { templateKey: { eq: "candidate" }}) {
+    markdownRemark(frontmatter: { templateKey: { eq: "candidate-page" }}) {
       frontmatter {
         title
         image {
@@ -168,13 +168,13 @@ export const candidatePageQuery = graphql`
           author
           quote
         }
-        full_image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
+        # full_image {
+        #   childImageSharp {
+        #     fluid(maxWidth: 2048, quality: 100) {
+        #       ...GatsbyImageSharpFluid
+        #     }
+        #   }
+        # }
         pricing {
           heading
           description
