@@ -9,15 +9,27 @@ tags:
   - Vélo
   - Plessis Robinson
 ---
+
+
 ![flavor wheel](/img/bike lane.jpg)
 
 ## Madame, Monsieur,
 
 La dernière enquête de 2019 du baromètre des villes cyclables est sans appel avec une note F, défavorable, pour notre ville du Plessis-Robinson.
 
+
+
+
+
+![climat velo](/img/image2.png)
+
+![](/img/image1.png)
+
 Notre ambition citoyenne pour les mobilités douces au Plessis-Robinson est de viser la même note que celle de la ville de Sceaux : note B favorable.
 
 Je vous invite à prendre connaissance de nos 12 propositions pour répondre aux attentes des robinsonnais pour un plan vélo digne de notre ville.
+
+
 
 ## Nos 12 propositions pour les cyclistes
 
@@ -47,7 +59,5 @@ Je vous invite à prendre connaissance de nos 12 propositions pour répondre aux
 **Une ville solidaire**
 
 * Subventionner les mobilités alternatives
-
-
 
 *Christophe Leroy*
