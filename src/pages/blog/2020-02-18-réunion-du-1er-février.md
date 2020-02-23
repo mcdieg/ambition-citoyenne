@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Réunion du 1er février
+title: Réunion du 1er février appel au rassemblement
 date: 2020-02-18T20:55:39.719Z
 description: ' '
 featuredpost: true
