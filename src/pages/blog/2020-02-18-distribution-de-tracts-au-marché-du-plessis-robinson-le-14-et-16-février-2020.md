@@ -1,6 +1,8 @@
 ---
 templateKey: blog-post
-title: 'Distribution de tracts au marché du Plessis-Robinson le 14 et 16 février 2020 '
+title: >-
+  Distribution de notre tract priorité au social et à l'écologie au marché du
+  Plessis-Robinson le 14 et 16 février 2020 
 date: 2020-02-18T20:57:24.831Z
 description: >
   Un premier retour enthousiaste pour nos 6 premières propositions concrètes qui
