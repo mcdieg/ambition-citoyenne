@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: >-
-  Actualités du 22 et 23 février : Rencontre avec les habitants au cœur de ville
-  et au marché.
+  Le 22 et 23 février, rencontre avec les habitants pour échanger sur notre
+  ambition pour le vélo
 date: 2020-02-22T20:01:32.644Z
 description: "Le samedi 22 et  dimanche 23 février\_: Rencontre avec les habitants au cœur de ville et au marché pour échanger sur une ambition pour le vélo digne de notre ville.\n"
 featuredpost: true
