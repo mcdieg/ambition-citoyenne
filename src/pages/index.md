@@ -5,14 +5,14 @@ image: /img/backrgoundouc.jpg
 heading: Nos 5 piliers
 subheading: Mettons du coeur dans nos actions
 mainpitch:
-  title: 'Priorité au social et à l’écologie '
+  title: 'Ensemble, inventons une ville durable, juste et conviviale. '
   description: >
-    Nous refusons la conception de l’action sociale et de l’écologie punitive,
-    moralisatrice, qui « accusent » , renvoient sur l’individu  la
-    responsabilité de sa situation. Nous mettrons en œuvre une action sociale et
-    écologique qui repose sur  une démarche concertée avec les services sociaux
-    et les associations.
-description: Pour changer le Plessis Robinson
+    Nous vous invitons à prendre connaissance de nos propositions et à nous
+    rejoindre pour être acteurs d’un changement qui réponde aux défis
+    démocratiques et aux urgences écologiques et sociales au Plessis-Robinson. 
+description: >-
+  Pour une alternative de gauche et écologiste à la politique de  la majorité
+  municipale sortante.
 intro:
   blurbs:
     - image: /img/care.png
