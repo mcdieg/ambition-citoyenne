@@ -576,6 +576,10 @@ intro:
 
         ![](/img/tract vélo verso.png)
       title: Ville durable et écologie au cœur de notre action
+    - image: /img/house.png
+      image2: /img/house.png
+      text: '![](/img/social et écologie verso.png)'
+      title: Une ville juste et une vraie mixité au coeur de notre action
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
