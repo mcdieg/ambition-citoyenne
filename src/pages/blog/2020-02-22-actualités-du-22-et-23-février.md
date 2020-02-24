@@ -12,4 +12,6 @@ tags:
 ---
 ![](/img/tract vélo reco.png "Tract Vélo recto")
 
+![](/img/DSC_7269.jpg)
+
 ![](/img/tract vélo verso.png "Tract Vélo verso")
