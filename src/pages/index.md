@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Ambition Citoyenne
 image: /img/backrgoundouc.jpg
-heading: Nos 5 piliers
+heading: Nos 7 piliers
 subheading: Mettons du coeur dans nos actions
 mainpitch:
   title: 'Ensemble, inventons une ville durable, juste et conviviale. '
