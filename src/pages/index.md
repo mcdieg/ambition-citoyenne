@@ -569,6 +569,13 @@ intro:
         dépôt d’un permis de construire sans avoir même pu voir le projet
         repensé et ses impact par exemple sur la circulation du quartier?
       title: Un urbanisme maîtrisé et des équipements publics accessibles à tou(te)s
+    - image: /img/social et écologie verso.png
+      image2: /img/social et écologie verso.png
+      text: |-
+        ![](/img/tract vélo reco.png)
+
+        ![](/img/tract vélo verso.png)
+      title: Ville durable et écologie au cœur de notre action
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
