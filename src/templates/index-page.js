@@ -80,12 +80,18 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <Pillar gridItems={intro.blurbs} />
+
                 <div className="columns">
                   <div className="column is-18 has-text-centered">
                     <Link className="btn" to="/team">
-                      Le collectif
+                      Notre collectif citoyen
                     </Link>
                   </div>
+                </div>
+                <div className="column is-18 has-text-centered">
+                  <Link className="btn" to="/team">
+                      Notre candidat
+                  </Link>
                 </div>
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
@@ -169,6 +175,13 @@ export const pageQuery = graphql`
         intro {
           blurbs {
             image {
+              childImageSharp {
+                fluid(maxWidth: 240, quality: 64) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            image2 {
               childImageSharp {
                 fluid(maxWidth: 240, quality: 64) {
                   ...GatsbyImageSharpFluid
