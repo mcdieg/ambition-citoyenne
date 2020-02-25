@@ -93,8 +93,15 @@ intro:
         serait bon de faire des conseils de jeunes afin qu’ils puissent
         s’exprimer.
   heading: Le collectif ambition citoyenne avec Christophe Leroy
-  description: |-
+  description: >-
+    Pour la profession de foi de notre candidat Christophe Leroy, nous vous
+    invitons à consulter notre menu notre candidat.  Nous vous présentons
+    ci-dessous certains colistiers représentatifs de la diversité de notre
+    collectif réuni par Christophe Leroy.
+
+
     Ensemble, inventons une ville durable, juste
+
     et conviviale
 main:
   heading: Le collectif ambition citoyenne avec Christophe Leroy
