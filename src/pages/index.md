@@ -571,16 +571,121 @@ intro:
       title: Un urbanisme maîtrisé et des équipements publics accessibles à tou(te)s
     - image: /img/noun_Earth_387159.png
       image2: /img/noun_Earth_387159.png
-      text: |-
-        ![](/img/tract vélo reco.png)
+      text: >-
+        Nous refusons la conception de l’action sociale et de l’écologie
+        punitive, moralisatrice, qui « accusent » , renvoient sur l’individu la
+        responsabilité de sa situation. Nous mettrons en œuvre une action
+        sociale et écologique qui repose sur une démarche concertée avec les
+        services sociaux et les associations.
 
-        ![](/img/tract vélo verso.png)
 
-        ![](/img/social et écologie verso.png)
+        **Nous formulons 6 propositions dans ce sens :**
+
+
+        1. Nous appliquerons le **quotient familial** pour toutes les
+        prestations municipales avec prise en compte dans les critères du statut
+        monoparental.
+
+
+        2. Nous favoriserons et subventionnerons au besoin, en lien avec le
+        territoire, une **politique d’isolation et de rénovation** de l’habitat
+        individuel et collectif.
+
+
+        3. Nous reconsidèrerons les projets de destruction de logements sociaux
+        (ex. Ledoux), non sens social et écologique, pour **le maintien des
+        espaces verts publics et une maîtrise du foncier**. Nous proposerons de
+        l’habitat social diversifié et de qualité, qui baissera la pression
+        spéculative sur les loyers et sur le prix de l’immobilier (logements et
+        commerces).
+
+
+        4. Nous agirons pour **la création d’un service public du 4e âge**
+        impliquant le soutien aux aidants, un réseau social et médical pour le
+        maintien à domicile et nous participerons à des actions pour faire
+        baisser le coût des EPAHD.
+
+
+        5. Nous viserons **l’objectif Ville Santé** de l’OMS (Organisation
+        mondiale de la Santé) avec la mise en réseau de toutes les ressources
+        santé du territoire, la définition d’un Plan Local de Santé
+        Environnementale répertoriant les pollutions liées à toutes les
+        activités. Nous nous impliquerons dans des actions contre les fermetures
+        de services médicaux dans les hôpitaux.
+
+
+        6. Nous mènerons une **action éducative de sensibilisation** aux enjeux
+        environnementaux.
+
+
+        ## **Sur le vélo**
+
+
+        La dernière enquête de 2019 du baromètre des villes cyclables est sans
+        appel : une note F, défavorable pour notre ville du Plessis-Robinson.
+
+
+        Notre ambition citoyenne pour les mobilités douces est de viser pour
+        notre ville,la même note que celle de la ville de Sceaux : note B
+        favorable.
+
+
+        Je vous invite à prendre connaissance de nos 12 propositions pour
+        répondre aux attentes des robinsonnais pour un plan vélo digne de notre
+        ville.
+
+
+        **Continuer a lire
+        [ici](http://ambitioncitoyenne.fr/blog/2020-02-22-actualit%C3%A9s-du-22-et-23-f%C3%A9vrier/)
+        [](http://ambitioncitoyenne.fr/blog/2020-02-22-actualit%C3%A9s-du-22-et-23-f%C3%A9vrier/)**
       title: Ville durable et écologie au cœur de notre action
     - image: /img/house.png
       image2: /img/house.png
-      text: '![](/img/social et écologie verso.png)'
+      text: >-
+        Nous refusons la conception de l’action sociale et de l’écologie
+        punitive, moralisatrice, qui « accusent » , renvoient sur l’individu la
+        responsabilité de sa situation. Nous mettrons en œuvre une action
+        sociale et écologique qui repose sur une démarche concertée avec les
+        services sociaux et les associations.
+
+
+        **Nous formulons 6 propositions dans ce sens :**
+
+
+        1. Nous appliquerons le **quotient familial** pour toutes les
+        prestations municipales avec prise en compte dans les critères du statut
+        monoparental.
+
+
+        2. Nous favoriserons et subventionnerons au besoin, en lien avec le
+        territoire, une **politique d’isolation et de rénovation** de l’habitat
+        individuel et collectif.
+
+
+        3. Nous reconsidèrerons les projets de destruction de logements sociaux
+        (ex. Ledoux), non sens social et écologique, pour **le maintien des
+        espaces verts publics et une maîtrise du foncier**. Nous proposerons de
+        l’habitat social diversifié et de qualité, qui baissera la pression
+        spéculative sur les loyers et sur le prix de l’immobilier (logements et
+        commerces).
+
+
+        4. Nous agirons pour **la création d’un service public du 4e âge**
+        impliquant le soutien aux aidants, un réseau social et médical pour le
+        maintien à domicile et nous participerons à des actions pour faire
+        baisser le coût des EPAHD.
+
+
+        5. Nous viserons **l’objectif Ville Santé** de l’OMS (Organisation
+        mondiale de la Santé) avec la mise en réseau de toutes les ressources
+        santé du territoire, la définition d’un Plan Local de Santé
+        Environnementale répertoriant les pollutions liées à toutes les
+        activités. Nous nous impliquerons dans des actions contre les fermetures
+        de services médicaux dans les hôpitaux.
+
+
+        6. Nous mènerons une **action éducative de sensibilisation** aux enjeux
+        environnementaux.
       title: Une ville juste et une vraie mixité au coeur de notre action
   heading: What we offer
   description: >
