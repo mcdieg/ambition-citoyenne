@@ -113,7 +113,7 @@ main:
 
     Ensemble, inventons une ville durable, juste
 
-    et conviviale  
+    et conviviale.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/headerbis.jpg
