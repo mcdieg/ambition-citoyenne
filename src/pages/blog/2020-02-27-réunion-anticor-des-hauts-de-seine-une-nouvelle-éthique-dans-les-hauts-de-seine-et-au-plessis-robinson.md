@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: >-
-  Réunion Anticor des Hauts de Seine : une nouvelle éthique dans les Hauts de
-  Seine et au Plessis-Robinson.
+  Jeudi 27 février, réunion Anticor des Hauts de Seine : une nouvelle éthique
+  dans les Hauts de Seine et au Plessis-Robinson.
 date: 2020-02-27T22:12:26.928Z
 description: >-
   Ambition Citoyenne a répondu présente à l'invitation d'Anticor 92 pour
