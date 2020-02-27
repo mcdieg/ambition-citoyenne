@@ -11,7 +11,7 @@ export default () => (
           <p>Un programme est en cours de construction avec le collectif de citoyens constitué suite à notre réunion du 1er février 2020.
           En attendant nous vous rappelons quelques tribunes éditées mensuellement dans le journal de Robinson et qui sont rédigées par nos 4 élus : Jean-François Papot, Béatrice Maubras, Christophe Leroy et Catherine Faguette.
           </p>
-          <h1>Manifeste pour un Plessis-Robinson à la hauteur des Robinsonnais-es</h1>
+          <h1>Tribune de nos élus de décembre 2019 : Manifeste pour un Plessis-Robinson à la hauteur des Robinsonnais-es</h1>
           <h2>Développer la nature en ville</h2>
           <p>
             Le Plessis-Robinson doit devenir la ville verte à laquelle aspirent tous les Robinsonnais. Pour cela, nous proposons qu’au moins le tiers des 70 Hectares d’aménagements planifiés sur le secteur Noveos devienne une forêt urbaine en pleine terre de part et d’autre des lignes à Très Haute Tension enterrées. 
