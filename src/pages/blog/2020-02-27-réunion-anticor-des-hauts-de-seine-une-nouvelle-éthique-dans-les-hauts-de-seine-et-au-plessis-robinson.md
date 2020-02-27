@@ -12,7 +12,7 @@ description: >-
 featuredpost: true
 featuredimage: /img/anticor92.jpg
 tags:
-  - ethique
+  - éthique
   - démocratie
   - anticor
   - ambition citoyenne
