@@ -83,14 +83,14 @@ export const IndexPageTemplate = ({
 
                 <div className="columns">
                   <div className="column is-18 has-text-centered">
-                    <Link className="btn" to="/team">
-                      Notre collectif citoyen
+                    <Link className="btn" to="/candidate">
+                        Notre candidat
                     </Link>
                   </div>
                 </div>
                 <div className="column is-18 has-text-centered">
-                  <Link className="btn" to="/candidate">
-                      Notre candidat
+                  <Link className="btn" to="/team">
+                    Notre collectif citoyen
                   </Link>
                 </div>
                 <div className="column is-12">
