@@ -22,6 +22,7 @@ const FeatureGrid = ({ gridItems }) => (
             <div className="message-body">
               {item.text}
               <br />
+              <cite  ><b>– {item.author}</b> </cite>
             </div>
           </article>
         </section>
@@ -35,6 +36,7 @@ FeatureGrid.propTypes = {
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
       text: PropTypes.string,
+      author: PropTypes.string
     })
   ),
 }

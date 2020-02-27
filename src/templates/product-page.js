@@ -154,6 +154,7 @@ export const productPageQuery = graphql`
               }
             }
             text
+            author
           }
           heading
           description
