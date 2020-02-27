@@ -232,9 +232,30 @@ intro:
     - image: /img/envir.png
       image2: /img/envir.png
       text: >-
-        ***En attendant le programme, la tribune de nos élus de l’été 2019, «La
-        vraie-fausse écologie de la majorité» et la tribune de nos élus
-        d'octobre 2019«A quand un plan de circulation douce ?»***
+        ## **Sur le vélo**
+
+
+        La dernière enquête de 2019 du baromètre des villes cyclables est sans
+        appel : une note F, défavorable pour notre ville du Plessis-Robinson.
+
+
+        Notre ambition citoyenne pour les mobilités douces est de viser pour
+        notre ville, la même note que celle de la ville de Sceaux : note B
+        favorable.
+
+
+        Je vous invite à prendre connaissance de nos 12 propositions pour
+        répondre aux attentes des robinsonnais pour un plan vélo digne de notre
+        ville.
+
+
+        **Continuer a lire
+        [ici](http://ambitioncitoyenne.fr/blog/2020-02-22-actualit%C3%A9s-du-22-et-23-f%C3%A9vrier/)** 
+
+
+        ***En attendant le programme complet, la tribune de nos élus de l’été
+        2019, «La vraie-fausse écologie de la majorité» et la tribune de nos
+        élus d'octobre 2019«A quand un plan de circulation douce ?»***
 
 
         ## ***La vraie-fausse écologie de la majorité***
@@ -306,114 +327,6 @@ intro:
         ?**Un plan de circulation, digne de ce nom, **sans coupure des pistes
         cyclables et plus protégées**?
       title: Une ville durable et l'écologie au coeur de notre action
-    - image: /img/old.png
-      image2: /img/old.png
-      text: >-
-        ***En attendant notre programme, la tribune de nos élus de mai 2019, «
-        Fuite en avant et exclusion des classes moyennes … La politique urbaine
-        de la majorité est au service du budget !»***
-
-
-        Débattre du budget communal, c’est, en théorie, définir les moyens
-        envisagés au service d’une vision et donc de la construction de la cité.
-        Au Plessis-Robinson, et le Débat d’Orientation Budgétaire (DOB) du 21
-        mars en était une preuve, la majorité renverse la question :**comment
-        construire la ville pour qu’elle rapporte et qu’elle permette de
-        poursuivre la fuite en avant initiée depuis de nombreuses années ?**
-
-
-        Pourquoi ? Pieds et mains liés par le poids de la dette, la majorité
-        doit, chaque année, dégager un excédent de plus de 8 M€ pour rassurer
-        les banquiers et ainsi **financer la dette liée aux investissements mais
-        aussi les nombreux crédit-révolving** qui lissent les creux de
-        trésoreries liés en particulier aux achats de terrains.
-
-
-        Pour garantir cet excédent (capacité d’auto-financement),**la majorité a
-        augmenté les taux d’imposition, supprimé les abattements, augmenté les
-        tarifications de services …**A un an des élections, elle tente de se
-        racheter avec une baisse symbolique de la taxe foncière plus que
-        largement compensée par l’augmentation des bases décidées par
-        l’Etat.Malgré sa communication, **la majorité sait que la dette plombe
-        son bilan**. La preuve, elle vient de décider en avril de payer un
-        spécialiste pour tenter de régler ce que nous dénonçons depuis 5 ans !
-
-
-        En effet, alors que l’an dernier, au même DOB, la majorité promettait de
-        faire baisser de 15 à 20 M€ la dette communale (aujourd’hui plus de 73
-        M€ en intégrant les « *autres dettes* »), la réalité est plus cruelle :
-        si la commune a remboursé plus de 6,2 M€ (soit un coût de 8 M€ avec les
-        intérêts),**le stock de dettes n’a pas baissé en 2018**! A ce rythme là,
-        il faudra des années pour que la dette retrouve un niveau acceptable et
-        ce d’autant plus que **les investissements nécessaires**(comme la
-        réhabilitation de l’école François Peatrik) **restent à financer** et
-        que le pôle culturel, livré en 2016, n’est toujours pas totalement soldé
-        !
-
-
-        La majorité **mise sur l’immobilier à l’image d’un joueur en quête d’une
-        martingale**. Cette méthode n’est pas nouvelle, la majorité a commencé
-        par vendre le patrimoine public (le stade Anatole France pour faire le «
-        Cœur de ville », les terrains de sports au profit du racing, ...) mais
-        que faire lorsque le patrimoine historique a déjà été cédé ?Vendre ses
-        rues, comme c’est le cas actuellement dans le quartier Ledoux, est
-        efficace mais il faut quand même en conserver quelques unes… La réponse
-        est simple : profiter de sa position dominante pour acquérir des
-        terrains à vils prix, modifier les règles d’urbanisme pour que le prix
-        des terrains acquis augmente, et le tour est joué !
-
-
-        Mais quel tour ? **Bétonner la ville** sans se soucier des conséquences
-        sur la qualité de vie ? Faire **détruire des bâtiments réhabilités il y
-        a moins de quinze ans** pour reconstruire un nombre double de logements
-        ? Vendre deux fois plus cher que ne l’estime France Domaine les terrains
-        à son aménageur (la SEMPRO) qui vendra plus cher à son tour à des
-        promoteurs et doper ainsi le prix du foncier de manière artificielle ?
-
-
-        Avec quels résultats ? Avec un prix moyen dans le neuf de près de 6000€
-        au m²**, la ville devient inaccessible aux «classes moyennes»**. Le
-        logement social, conçu pour loger les moins favorisés est quasi
-        exclusivement fléché par la majorité vers la catégorie dite PLS (Prêt
-        Locatif Social) pour loger les familles dont les revenus sont trop
-        élevés pour pouvoir accéder aux locations HLM ordinaires, mais trop bas
-        pour pouvoir se loger dans le secteur privé. La double conséquence, en
-        souhaitant que cela n’en soit pas la cause, est évidente :**il devient
-        quasi-impossible de louer pour les plus pauvres et quasi impossible
-        d’acheter pour les moins riches**! Même ceux qui ont les moyens
-        d’acheter un logement ou qui sont installés depuis longtemps le savent :
-        leurs enfants ne pourront pas s’installer au Plessis-Robinson ou n’y
-        resteront qu’un temps, en location.
-
-
-        Bien sur, des familles s’installent au Plessis–Robinson, bien souvent en
-        location mais **combien doivent partir au premier ou au second enfant…
-        que cela soit faute de moyens ou faute d’équipements publics adaptés au
-        flux des nouveaux habitants ?**
-
-
-        Face à nos critiques, la majorité se gausse et nous reproche de nous
-        préoccuper des futurs habitants et ils ont, en partie raison ! Être élu
-        n’est pas, à notre sens, ne se préoccuper que des habitants présents,
-        fussent-ils électeurs, mais du bien-être commun.
-
-
-        Orienter aujourd’hui les décisions urbaines vers**la spéculation
-        immobilière expose la commune à des risques financiers**mais**établit
-        surtout une ségrégation par l’argent**. Qu’est ce qu’une ville qui ne
-        pense trouver son salut budgétaire qu’en**abusant de son statut de
-        législateur local sans se soucier d’exclure les moins aisés**, puis les
-        classes moyennes, puis ses enfants?**Qu’est ce qu’une ville qui bâtit
-        toujours plus de logements sans adapter les équipements ?**Qu’est ce
-        qu’une majorité municipale qui fait « des coups immobiliers » sans
-        prévoir la hausse des coûts de fonctionnement liés ?
-
-
-        Fondamentalement, le budget devrait être au service d’une vision
-        politique. Au Plessis-Robinson, **c’est bien le devenir de la ville que
-        la majorité met au service du budget** et en particulier de la dette.
-        Nous ne pouvons souscrire à cette logique !
-      title: Une ville juste et une vraie mixité au coeur de notre action
     - image: /img/tree.png
       image2: /img/tree.png
       text: >-
@@ -572,6 +485,10 @@ intro:
     - image: /img/noun_Earth_387159.png
       image2: /img/noun_Earth_387159.png
       text: >-
+        ##### **En attendant le programme
+        complet**[](http://ambitioncitoyenne.fr/blog/2020-02-22-actualit%C3%A9s-du-22-et-23-f%C3%A9vrier/)
+
+
         Nous refusons la conception de l’action sociale et de l’écologie
         punitive, moralisatrice, qui « accusent » , renvoient sur l’individu la
         responsabilité de sa situation. Nous mettrons en œuvre une action
@@ -586,11 +503,9 @@ intro:
         prestations municipales avec prise en compte dans les critères du statut
         monoparental.
 
-
         2. Nous favoriserons et subventionnerons au besoin, en lien avec le
         territoire, une **politique d’isolation et de rénovation** de l’habitat
         individuel et collectif.
-
 
         3. Nous reconsidèrerons les projets de destruction de logements sociaux
         (ex. Ledoux), non sens social et écologique, pour **le maintien des
@@ -599,12 +514,10 @@ intro:
         spéculative sur les loyers et sur le prix de l’immobilier (logements et
         commerces).
 
-
         4. Nous agirons pour **la création d’un service public du 4e âge**
         impliquant le soutien aux aidants, un réseau social et médical pour le
         maintien à domicile et nous participerons à des actions pour faire
         baisser le coût des EPAHD.
-
 
         5. Nous viserons **l’objectif Ville Santé** de l’OMS (Organisation
         mondiale de la Santé) avec la mise en réseau de toutes les ressources
@@ -613,32 +526,9 @@ intro:
         activités. Nous nous impliquerons dans des actions contre les fermetures
         de services médicaux dans les hôpitaux.
 
-
         6. Nous mènerons une **action éducative de sensibilisation** aux enjeux
         environnementaux.
-
-
-        ## **Sur le vélo**
-
-
-        La dernière enquête de 2019 du baromètre des villes cyclables est sans
-        appel : une note F, défavorable pour notre ville du Plessis-Robinson.
-
-
-        Notre ambition citoyenne pour les mobilités douces est de viser pour
-        notre ville,la même note que celle de la ville de Sceaux : note B
-        favorable.
-
-
-        Je vous invite à prendre connaissance de nos 12 propositions pour
-        répondre aux attentes des robinsonnais pour un plan vélo digne de notre
-        ville.
-
-
-        **Continuer a lire
-        [ici](http://ambitioncitoyenne.fr/blog/2020-02-22-actualit%C3%A9s-du-22-et-23-f%C3%A9vrier/)
-        [](http://ambitioncitoyenne.fr/blog/2020-02-22-actualit%C3%A9s-du-22-et-23-f%C3%A9vrier/)**
-      title: Ville durable et écologie au cœur de notre action
+      title: Priorité au social et à l'écologie
     - image: /img/house.png
       image2: /img/house.png
       text: >-
