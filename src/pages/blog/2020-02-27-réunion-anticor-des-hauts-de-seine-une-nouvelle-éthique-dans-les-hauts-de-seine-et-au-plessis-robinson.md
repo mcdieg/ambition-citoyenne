@@ -5,10 +5,12 @@ title: >-
   dans les Hauts de Seine et au Plessis-Robinson.
 date: 2020-02-27T22:12:26.928Z
 description: >-
-  Ambition Citoyenne a répondu présente à l'invitation d'Anticor 92 pour
-  échanger sur nos propositions pour une gestion municipale plus éthique et
-  présente ses premières propositions pour une nouvelle gouvernance de
-  démocratie locale dans notre ville.
+  Sur les 3 listes qui candidatent aux élections municipales du
+  Plessis-Robinson, notre liste Ambition Citoyenne a été la seule à avoir
+  répondu présente à l'invitation d'Anticor 92 pour échanger sur nos
+  propositions pour une gestion municipale plus éthique et présente ses
+  premières propositions pour une nouvelle gouvernance de démocratie locale dans
+  notre ville.
 featuredpost: true
 featuredimage: /img/anticor92.jpg
 tags:
