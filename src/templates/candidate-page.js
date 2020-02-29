@@ -40,6 +40,7 @@ export const CandidatePageTemplate = ({
             <div className="column is-7 is-offset-1">
               <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
               <p>{description}</p>
+              <Features gridItems={intro.blurbs} />
               <img src={candidat} alt="collectif citoyen" style={{ width: '450px', height: '450px' }} />
             </div>
           </div>          
@@ -60,7 +61,6 @@ export const CandidatePageTemplate = ({
                 </div>
               </div>
 
-              <Features gridItems={intro.blurbs} />
               {/* <div
                 className="full-width-image-container"
                 style={{
