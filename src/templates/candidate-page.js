@@ -40,8 +40,6 @@ export const CandidatePageTemplate = ({
             <div className="column is-7 is-offset-1">
               <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
               <p>{description}</p>
-              <Features gridItems={intro.blurbs} />
-              <img src={candidat} alt="collectif citoyen" style={{ width: '450px', height: '450px' }} />
             </div>
           </div>          
           <div className="columns">
@@ -56,7 +54,7 @@ export const CandidatePageTemplate = ({
                   <h3 className="has-text-weight-semibold is-size-3">
                     {main.heading}
                   </h3>
-                  <p>{main.description}</p>
+                  <Features gridItems={intro.blurbs} />
                   <img src={logos} alt="collectif citoyen" style={{ width: '1000px', height: '130px' }} />
                 </div>
               </div>
