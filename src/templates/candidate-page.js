@@ -54,7 +54,10 @@ export const CandidatePageTemplate = ({
                   <h3 className="has-text-weight-semibold is-size-3">
                     {main.heading}
                   </h3>
-                  <Features gridItems={intro.blurbs} />
+                  <PreviewCompatibleImage imageInfo={intro.blurbs[0]} />
+                  <p>{intro.blurbs[0].text}</p>
+                  <cite><b>{intro.blurbs[0].author}</b></cite>
+
                   <img src={logos} alt="collectif citoyen" style={{ width: '1000px', height: '130px' }} />
                 </div>
               </div>
