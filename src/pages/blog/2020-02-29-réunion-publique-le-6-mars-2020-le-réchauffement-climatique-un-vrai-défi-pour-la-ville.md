@@ -10,7 +10,7 @@ description: >-
   transition environnementale de Sorbonne Université et également candidate sur
   notre liste.
 featuredpost: true
-featuredimage: /img/annonce réunion 6 mars face recto.jpg
+featuredimage: /img/image.jpg
 tags:
   - environnement
   - climat
@@ -19,6 +19,10 @@ tags:
   - Plessis
   - Plessis Robinson
 ---
+![](/img/annonce réunion 6 mars face recto.jpg)
+
+
+
 Bloquez vos agendas : 
 
 \- La date : Le vendredi 6 mars à 20h
