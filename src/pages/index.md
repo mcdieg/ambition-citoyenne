@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Ambition Citoyenne
 image: /img/backrgoundouc.jpg
-heading: Nos 7 piliers
+heading: Nos 5 piliers
 subheading: Mettons du coeur dans nos actions
 mainpitch:
   title: 'Ensemble, inventons une ville durable, juste et conviviale. '
@@ -529,54 +529,6 @@ intro:
         6. Nous mènerons une **action éducative de sensibilisation** aux enjeux
         environnementaux.
       title: Priorité au social et à l'écologie
-    - image: /img/house.png
-      image2: /img/house.png
-      text: >-
-        Nous refusons la conception de l’action sociale et de l’écologie
-        punitive, moralisatrice, qui « accusent » , renvoient sur l’individu la
-        responsabilité de sa situation. Nous mettrons en œuvre une action
-        sociale et écologique qui repose sur une démarche concertée avec les
-        services sociaux et les associations.
-
-
-        **Nous formulons 6 propositions dans ce sens :**
-
-
-        1. Nous appliquerons le **quotient familial** pour toutes les
-        prestations municipales avec prise en compte dans les critères du statut
-        monoparental.
-
-
-        2. Nous favoriserons et subventionnerons au besoin, en lien avec le
-        territoire, une **politique d’isolation et de rénovation** de l’habitat
-        individuel et collectif.
-
-
-        3. Nous reconsidèrerons les projets de destruction de logements sociaux
-        (ex. Ledoux), non sens social et écologique, pour **le maintien des
-        espaces verts publics et une maîtrise du foncier**. Nous proposerons de
-        l’habitat social diversifié et de qualité, qui baissera la pression
-        spéculative sur les loyers et sur le prix de l’immobilier (logements et
-        commerces).
-
-
-        4. Nous agirons pour **la création d’un service public du 4e âge**
-        impliquant le soutien aux aidants, un réseau social et médical pour le
-        maintien à domicile et nous participerons à des actions pour faire
-        baisser le coût des EPAHD.
-
-
-        5. Nous viserons **l’objectif Ville Santé** de l’OMS (Organisation
-        mondiale de la Santé) avec la mise en réseau de toutes les ressources
-        santé du territoire, la définition d’un Plan Local de Santé
-        Environnementale répertoriant les pollutions liées à toutes les
-        activités. Nous nous impliquerons dans des actions contre les fermetures
-        de services médicaux dans les hôpitaux.
-
-
-        6. Nous mènerons une **action éducative de sensibilisation** aux enjeux
-        environnementaux.
-      title: Une ville juste et une vraie mixité au coeur de notre action
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
