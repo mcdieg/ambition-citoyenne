@@ -30,7 +30,21 @@ description: >-
   d’égalité sociale et territoriale, contre-pied de la compétitivité, au plus
   près des exigences populaires contre l’austérité 
 intro:
-  blurbs: []
+  blurbs:
+    - author: Christophe Leroy
+      image: /img/candidat.jpg
+      text: >-
+        Si vous voulez : Remettre de la nature en ville ; Faire le choix de la
+        participation citoyenne ; Réduire la dette pour remettre le budget au
+        service des Robinsonnais ; Rendre plus juste et plus équitable la
+        politique communale ; Généraliser le quotient familial ; Favoriser les
+        emplois et commerces locaux ; Développer les pistes cyclables, les
+        parkings vélos et les transports en commun ; Stopper les démolitions et
+        la densification ; … Alors, je vous invite à nous rejoindre pour que,
+        fort de votre ambition citoyenne, nous soyons ensemble acteurs du
+        changement pour répondre aux défis et aux urgences écologiques, sociales
+        et démocratiques qui se posent au Plessis-Robinson. Mettons du cœur dans
+        nos actions !
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
