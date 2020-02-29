@@ -155,6 +155,7 @@ export const candidatePageQuery = graphql`
               }
             }
             text
+            author
           }
           heading
           description
