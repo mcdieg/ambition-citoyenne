@@ -42,7 +42,7 @@ intro:
         municipalité sortante. Pourtant le maire avait l’opportunité de créer
         facilement des voies cyclables sécurisées, sans rupture en lien avec les
         villes voisines, particulièrement avec la ville de Sceaux à l’occasion
-        de la réfection des avenues Charles de Gaule et de la République. Si
+        de la réfection des avenues Charles de Gaulle et de la République. Si
         cela avait été fait  à cette occasion, les robinsonnais pourraient
         aujourd’hui faire du vélo en famille en toute sécurité pour rejoindre la
         Coulée verte, le Parc de Sceaux ou le bois de Verrières, poumons verts
