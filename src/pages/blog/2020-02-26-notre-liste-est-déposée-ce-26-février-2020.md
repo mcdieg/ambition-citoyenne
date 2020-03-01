@@ -4,7 +4,7 @@ title: Notre liste est déposée ce 26 février 2020 !
 date: 2020-02-26T21:31:53.927Z
 description: >-
   Notre tête de liste Christophe Leroy a déposé en préfecture, ce jeudi 26
-  février 2029, notre liste ambition Citoyenne pour les élections du 15 mars
+  février 2020, notre liste ambition Citoyenne pour les élections du 15 mars
   prochain. 
 featuredpost: true
 featuredimage: /img/liste déposée .jpg
