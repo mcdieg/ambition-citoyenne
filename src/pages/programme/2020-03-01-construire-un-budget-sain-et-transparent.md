@@ -1,6 +1,6 @@
 ---
 templateKey: programme-post
-title: Construire un budget sain et transparent
+title: 6.Construire un budget sain et transparent
 date: 2020-03-01T11:14:21.477Z
 description: >
   Depuis 2014, les impôts locaux, déjà parmi les plus élevés du département, ont
