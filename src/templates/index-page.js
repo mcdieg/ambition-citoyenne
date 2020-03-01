@@ -75,7 +75,7 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <div>
-                <Img style={{  width: '100vh', height: '70vh' }} fluid={image2.childImageSharp.fluid}  />
+                <Img style={{  width: '100vh', height: '67vh' }} fluid={image2.childImageSharp.fluid}  />
                 </div>
                 <div className="column is-18 has-text-centered">
                 </div>
