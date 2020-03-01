@@ -8,6 +8,8 @@ import BlogRoll from '../components/BlogRoll'
 import logo from "../img/logo.png"
 import subheader from "../img/subheader.png"
 import Pillar from '../components/Pillar'
+import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import Img from 'gatsby-image'
 
 
 export const IndexPageTemplate = ({
@@ -18,6 +20,7 @@ export const IndexPageTemplate = ({
   mainpitch,
   description,
   intro,
+  image2
 }) => (
   <div>
     <div
@@ -71,27 +74,23 @@ export const IndexPageTemplate = ({
                     <h3 className="subtitle">{mainpitch.description}</h3>
                   </div>
                 </div>
-                <div className="columns">
-                  <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
-                    </h3>
-                    <p>{description}</p>
-                  </div>
-                </div>
-                <Pillar gridItems={intro.blurbs} />
-
-                <div className="columns">
-                  <div className="column is-18 has-text-centered">
-                    <Link className="btn" to="/candidate">
-                        Notre candidat
-                    </Link>
-                  </div>
+                <div>
+                <Img style={{  width: '100vh', height: '70vh' }} fluid={image2.childImageSharp.fluid}  />
                 </div>
                 <div className="column is-18 has-text-centered">
+                </div>
+                <div className="column is-18 has-text-centered">
+                  <Link className="btn" to="/programme">
+                      Nos propositions
+                  </Link>
+                  <Link className="btn" to="/candidate">
+                    Notre candidat
+                  </Link>
                   <Link className="btn" to="/team">
                     Notre collectif citoyen
                   </Link>
+                </div>
+                <div className="column is-18 has-text-centered">
                 </div>
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
@@ -132,6 +131,7 @@ const IndexPage = ({ data }) => {
     <Layout>
       <IndexPageTemplate
         image={frontmatter.image}
+        image2={frontmatter.image2}
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
@@ -172,6 +172,13 @@ export const pageQuery = graphql`
           description
         }
         description
+        image2 {
+          childImageSharp {
+            fluid(maxWidth: 2048, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         intro {
           blurbs {
             image {

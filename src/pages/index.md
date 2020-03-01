@@ -2,6 +2,7 @@
 templateKey: index-page
 title: Ambition Citoyenne
 image: /img/backrgoundouc.jpg
+image2: /img/bannerbis.jpg
 heading: Nos 5 piliers
 subheading: Mettons du coeur dans nos actions
 mainpitch:
