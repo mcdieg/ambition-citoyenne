@@ -22,7 +22,7 @@ export default class ProgrammeIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Notre Programme
+            Nos propositions
           </h1>
         </div>
         <section className="section">
