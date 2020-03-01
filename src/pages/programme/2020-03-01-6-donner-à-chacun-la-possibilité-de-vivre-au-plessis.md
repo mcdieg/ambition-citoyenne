@@ -1,6 +1,6 @@
 ---
 templateKey: programme-post
-title: 6. Donner à chacun la possibilité de vivre au Plessis
+title: 4. Donner à chacun la possibilité de vivre au Plessis
 date: 2020-03-01T10:46:32.425Z
 description: >
   Nous n’acceptons pas que les classes moyennes n’aient plus les moyens de
