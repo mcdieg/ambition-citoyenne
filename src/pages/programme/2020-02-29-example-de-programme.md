@@ -19,4 +19,4 @@ tags:
   - déchets
   - Plessis Robinson
 ---
-![](/img/Thème 1.jpg)
+![](/img/thème 1.jpg)
