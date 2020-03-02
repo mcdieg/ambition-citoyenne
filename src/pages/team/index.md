@@ -108,20 +108,7 @@ intro:
     et conviviale     
 main:
   heading: Le collectif ambition citoyenne avec Christophe Leroy
-  description: >
-
-
-    Pour la profession de foi de notre candidat Christophe Leroy, nous vous
-    invitons à consulter notre menu notre candidat.  Nous vous présentons
-    ci-dessous d'autres colistiers représentatifs de la diversité de notre
-    collectif réuni par Christophe Leroy.
-
-
-
-
-    Ensemble, inventons une ville durable, juste
-
-    et conviviale.
+  description: "Ensemble, inventons une ville durable, juste\net conviviale.\n\n1. Christophe LEROY Responsable Atelier Aéronautique\n2.Nathalie LAUNAY Consultante\L\n3. Jean-François PAPOT Chef d’entreprise\n4. Marie-Hélène VIDAL Ingénieure\L\n5. Patrice FABIANO Ancien responsable telecoms\L\n6. Anne-Marie CHAPPE Responsable médiathèque\L\n7. Eric ROBERT Archéologue\L\n8. Sophie FEYRIT Cadre\L\n9. Michel HURPEAU Ancien directeur OPHLM\L\n10. Chloé DOINET Podologue\L\n11. Didier BERNARD Dirigeant sportif ancien responsable service jeunesse \n12. Eliane-Jeanne MORIN Ancienne enseignante\L\n13. David CORLIN MARCHAND Doctorant\L\n14. Sylvaine SIRET Ingénieure\L\n15. André Pierre LEPEULE Cadre retraité\L\n16. Marine LOXQ Étudiante sciences politiques\L\n17. Marc SOURIMANT Enseignant\L\n18. Anne-Marie BRIERE Ancienne enseignante\L\n19. Marc LAGARRIGUE Syndicaliste énergie \n20. Béatrice MAUBRAS Cadre retraitée\L\n21. François MATTEI Ancien directeur secteur automobile\L\n22. Catherine FAGUETTE Ancienne éducatrice jeunes enfants\L\n23. Michel GIRARD Ancien ingénieur\L\n24. Laurence EYMARD Chercheuse émerite\L\n25. Jérôme DUNLOP Enseignant\L\n26. Evelyne LERNER Cadre retraitée\L\n27. Guy MARTINET Ancien professeur d’université\L\n28. Marie Claire SUCHOWOLSKI (WILKOWSKI) Ancienne secrétaire \n29. Olivier MURET Syndicaliste cheminot en retraite\L\n30. Nicole GOUSSAUD Retraitée\L\n31. Patrick FARCY Ancien employé métallurgie\L\n32. Marie Danièle CHARBUILLET Ancienne éducatrice sportive\L\n33. Jean-François NAPOLITANO Ancien cadre Éducation nationale \n34. Paule GUIVARCH Ancienne Maître de conférence\L\n35. Raymond LE MANACH Conseiller à l’emploi\L\n36. Monique RIVIERE Ancienne employée\L\n37. Claude Arthur MORIN Ancien ingénieur commercial \n\nPour la profession de foi de notre candidat Christophe Leroy, nous vous invitons à consulter notre menu notre candidat.  Nous vous présentons ci-dessous quelques colistiers représentatifs de la diversité de notre collectif réuni par Christophe Leroy.\n\n\n\n"
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/headerbis.jpg
