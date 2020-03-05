@@ -100,6 +100,22 @@ intro:
         puissent se rencontrer, jouer de la musique, discuter entre eux. Il
         serait bon de faire des conseils de jeunes afin qu’ils puissent
         s’exprimer.
+    - author: Marine Loxq
+      image: /img/IMG-20200301-WA0006.png
+      text: >-
+        Étudiante en Science politique âgée de 21 ans, robinsonnaise depuis mon
+        enfance, je réside dans le quartier de Malabry. Je souhaite aujourd'hui
+        m'engager au niveau de ma commune afin de promouvoir une gestion plus
+        sociale, écologique et démocratique de la ville. Sensibilisée aux enjeux
+        éducatifs, je déplore que le nouveau lycée promis depuis des années par
+        la majorité en place ne soit toujours pas construit malgré les promesses
+        successives sur différents sites. C'est l'une des raisons pour
+        lesquelles j'ai décidé de rejoindre la liste Ambition Citoyenne menée
+        par Christophe Leroy qui souhaite faire de cet engagement une priorité.
+        Par ailleurs, je souhaite œuvrer pour que le Plessis Robinson soit une
+        ville où il fait bon-vivre, conciliant écologie, dynamisme économique,
+        mixité sociale et accès pour tous à des infrastructures et services de
+        qualité.
   heading: 'Notre liste complète :'
   description: ' Ensemble, inventons une ville durable, juste et conviviale   '
 main:
