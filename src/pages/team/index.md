@@ -82,7 +82,7 @@ intro:
     - author: Didier Bernard
       image: /img/Photo Didier Bernard.jpg
       text: "64 ans retraité de la fonction publique territorial, coordinateur des services Enfance Jeunesse et enseignement de la ville du Plessis Robinson, puis directeur d’un centre Social et Culturel,  j’ai fini ma carrière comme  responsable des activités périscolaires, centre de vacances et classes de découverte  de la ville de Bagneux.\nEn marge de mes activités professionnelles j’ai aussi été pendant des années président de la Fédération des Conseils de Parents d’Elèves des Hauts de Seine.\nDepuis toujours j’ai eu une passion pour le sport, la formation et l’éducation populaire\nJ’ai ainsi été rugbyman eu sein du CSMPR section rugby ou j’ai été Educateur des enfants (mini poussins a moins de 14 ans), puis responsable de l’Ecole de Rugby.\nJe suis ensuite devenu président de l Entente Plessis Robinson Meudon Rugby aux cotés du regretté Pierre CETTOUR ROSE, ce qui m’a conduit à m’investir dans le Conseil Départemental de Rugby des Hauts de Seine dont je suis actuellement Vice Président.\nC’est pour promouvoir les valeurs qui ont bâties mon parcours personnel et professionnel que j’ai décidé de m’engager dans la liste «\_Ambition Citoyenne\_»"
-    - author: Elinae-Jeanne Morin
+    - author: Eliane-Jeanne Morin
       image: /img/Tete Eliane1.jpg
       text: >
         Arrivée en 2000 au Plessis Robinson,  Eliane MORIN , Parti de Gauche,
