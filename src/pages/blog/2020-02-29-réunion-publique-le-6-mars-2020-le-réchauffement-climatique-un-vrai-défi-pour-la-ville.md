@@ -1,16 +1,16 @@
 ---
 templateKey: blog-post
 title: >-
-  Réunion publique le 6 mars 2020 "Le réchauffement climatique...un vrai défi
-  pour la ville !"
+  Retour sur notre réunion publique du 6 mars 2020 "Le réchauffement
+  climatique...un vrai défi pour la ville !"
 date: 2020-02-29T21:24:57.202Z
 description: >-
-  Le collectif ambition citoyenne vous invite à venir à cette conférence-débat
-  publique qui sera animée par Laurence Eymard, cofondatrice de l'institut de la
-  transition environnementale de Sorbonne Université et également candidate sur
-  notre liste.
+  Le collectif ambition citoyenne a organisé cette conférence-débat publique.
+  Elle a été animée avec brio par Laurence Eymard, cofondatrice de l'institut de
+  la transition environnementale de Sorbonne Université et également candidate
+  sur notre liste.
 featuredpost: true
-featuredimage: /img/image.jpg
+featuredimage: /img/retour réunion 6 mars 2020.png
 tags:
   - environnement
   - climat
@@ -19,14 +19,12 @@ tags:
   - Plessis
   - Plessis Robinson
 ---
-![](/img/annonce réunion 6 mars face recto.jpg)
+Nous remercions l'ensemble des participant(e)s venu(e)s écouter notre conférencière mais aussi échanger activement sur cet enjeu majeur de notre temps et de notre ville aussi  : le réchauffement climatique !
+
+A ce propos, nous engageons à construire un Plan Climat Air Energie Communical ambitieux en lien avec les habitants de notre ville et les associations. Nous vous invitons aussi à prendre connaissance de nos autres [](http://ambitioncitoyenne.fr/programme/2020-03-01-1-faire-de-l%C3%A9cologie-un-pilier-de-nos-d%C3%A9cisions-1/)propositions en matière [d'écologie](http://ambitioncitoyenne.fr/programme/2020-03-01-1-faire-de-l%C3%A9cologie-un-pilier-de-nos-d%C3%A9cisions-1/), de [mobilités douces et durables](http://ambitioncitoyenne.fr/programme/2020-03-01-8-penser-une-mobilit%C3%A9-douce-et-durable/), d'[urbanisme](http://ambitioncitoyenne.fr/programme/2020-03-01-3-construire-la-ville-avec-et-pour-les-robinsonnais-1/) et d'[emploi](http://ambitioncitoyenne.fr/programme/2020-03-01-10-redynamisons-lemploi/) qui sont associées à cette lutte. En effet l'écologie sera le pilier de nos décisions pour sauvegarder la planète et le vivant !
+
+![](/img/retour réunion 6 mars 2020.png)
 
 
-
-Bloquez vos agendas : 
-
-\- La date : Le vendredi 6 mars à 20h
-
-\- Le  lieu : Salle des conférences de la Maison des Arts au Plessis-Robinson.
 
 ![](/img/annonce réunion 6 mars verso.jpg)
