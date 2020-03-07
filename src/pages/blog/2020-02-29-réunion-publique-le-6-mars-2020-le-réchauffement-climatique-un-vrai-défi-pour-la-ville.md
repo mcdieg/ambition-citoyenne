@@ -23,13 +23,9 @@ Nous remercions l'ensemble des participant(e)s venu(e)s écouter notre conféren
 
 ![](/img/retour réunion 6 mars 2020.png)
 
-
-
 Nous, collectif Ambition Citoyenne, nous engageons à construire un Plan Climat Air Energie Communal ambitieux en lien avec les habitants de notre ville et les associations. Nous vous invitons aussi à prendre connaissance de nos autres [](http://ambitioncitoyenne.fr/programme/2020-03-01-1-faire-de-l%C3%A9cologie-un-pilier-de-nos-d%C3%A9cisions-1/)propositions en matière [d'écologie](http://ambitioncitoyenne.fr/programme/2020-03-01-1-faire-de-l%C3%A9cologie-un-pilier-de-nos-d%C3%A9cisions-1/), de [mobilités douces et durables](http://ambitioncitoyenne.fr/programme/2020-03-01-8-penser-une-mobilit%C3%A9-douce-et-durable/), d'[urbanisme](http://ambitioncitoyenne.fr/programme/2020-03-01-3-construire-la-ville-avec-et-pour-les-robinsonnais-1/) et d'[emploi](http://ambitioncitoyenne.fr/programme/2020-03-01-10-redynamisons-lemploi/) qui sont associées à cette lutte. En effet l'écologie sera le pilier de nos décisions pour sauvegarder la planète et le vivant !
 
 
-
-![](blob:http://ambitioncitoyenne.fr/721addbf-e5fc-1b40-a5f6-0e95ebc2c39a)
 
 ![](/img/fil tweet .png)
 
