@@ -9,7 +9,7 @@ description: >+
   regard de l’abstention massive nationale y compris dans notre commune (55,15 %
   en 2020 versus 33,41 %  en 2014).
 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/élus du 16 mars 2020.jpg
 tags:
   - élection
