@@ -51,7 +51,7 @@ Les valeurs de gauche et écologistes seront représentés par nos 2 conseillers
 
 ![](/img/élus du 16 mars 2020.jpg)
 
-Nos deux élus s’engagent à se porter dignes de votre confiance pour porter les valeurs de gauche et écologistes et défendre les propositions de notre programme pour une ville durable, juste et conviviale. 
+Nos deux élus s'engagent être à la hauteur de la confiance que vous leur avez accordée en portant fièrement les valeurs de gauche et écologistes, fondement des propositions de notre programme pour une ville durable, juste, conviviale. 
 
 Pour ce faire, nos deux élus continueront de travailler, main dans la main, avec l’ensemble du collectif, rassemblant des citoyens non affiliés à des partis et des représentants du PS, PCF, LFI, Parti de Gauche, Génération-S, EELV, et en particulier  avec les 3 anciens élus, Jean-François Papot, Béatrice Maubras, Catherine Faguette qui sauront nous faire partager leurs expériences de leur(s) précédent(s) mandat(s).
 
