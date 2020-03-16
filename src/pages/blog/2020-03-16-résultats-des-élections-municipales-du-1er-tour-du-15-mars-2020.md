@@ -47,7 +47,7 @@ Nous souhaitons :
 * Remercier plus particulièrement les scrutateurs, simples électeurs, qui se sont rendus disponibles avec un très grand civisme, pour dépouiller les bulletins en respectant les consignes barrières très strictes (ports de masques, gants, nettoyage des mains toutes les 10 mn aux solutions hydro-alcooliques) ;
 * Et enfin remercier toutes celles et ceux qui, par leur vote, ont témoigné leur confiance à la liste Ambition Citoyenne, conduite par Christophe Leroy. 
 
-En raison d’un contexte différent de celui de 2014 (présence de trois listes), et du score plus faible qui en a résulté pour notre liste, les valeurs de gauche et écologistes ne seront plus représentées que par 2 conseillers municipaux (au lieu de 4) : notre tête de liste, Christophe Leroy et Nathalie LAUNAY, 2nde de la liste.
+En raison d’un contexte différent de celui de 2014 (présence de trois listes), et du score plus faible qui en a résulté pour notre liste, les valeurs de gauche et écologistescseront représentées par 2 conseillers municipaux : Christophe Leroy, notre tête de liste et Nathalie LAUNAY, 2nde de la liste.
 
 ![](/img/élus du 16 mars 2020.jpg)
 
