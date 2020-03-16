@@ -6,7 +6,7 @@ description: >
 
   Cher(e)s électrices et électeurs du
   Plessis-Robinson,                             
-featuredpost: false
+featuredpost: true
 featuredimage: /img/élus du 16 mars 2020.jpg
 tags:
   - élection
