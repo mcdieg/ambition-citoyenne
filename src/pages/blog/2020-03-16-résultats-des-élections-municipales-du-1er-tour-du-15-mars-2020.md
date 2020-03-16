@@ -28,16 +28,16 @@ Pour les suffrages exprimés, le score attribué pour chaque liste est le suivan
 * 1ère liste : liste LR conduite par Philippe Pemezec  
 
   *71,77 % soit 31 sièges communaux et 1 siège à la Métropole Grand Paris*
-* 2ème liste : **notre liste ambition citoyenne menée par Christophe Leroy** 
+* 2ème liste : **notre liste Ambition Citoyenne menée par Christophe Leroy** 
 
   ***14,11 % soir 2 sièges***
-* 3ème liste : liste LREM conduite par Christelle Carconne 
+* 3ème liste : liste LREM conduite par Christelle Carcone 
 
   *14,10 % soit 2 sièges également*
 
 Vous trouverez le détail par [bureau de vote sur le site de la commune](http://www.plessis-robinson.com/actualites/detail/article/elections-municipales-les-resultats-provisoires.html).
 
-Nous prenons acte du verdict des urnes et nous soumettons à la décision de l’Etat quant à la validité de ces résultats et des élections en particulier au regard de l’abstention massive nationale y compris dans notre commune (55,15 % en 2020 versus 33,41 %  en 2014).
+Nous prenons acte du verdict des urnes. Nous respecterons la décision de l’Etat qui aura à décider de la validité de ces élections, au regard d’une abstention massive au niveau national à laquelle notre commune n’échappe pas (55,15 % en 2020, 33,41 %en 2014) et de l’impossibilité d’organiser un second tour dimanche prochain.
 
 Nous souhaitons : 
 
