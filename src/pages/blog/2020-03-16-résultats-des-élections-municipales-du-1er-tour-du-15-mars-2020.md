@@ -45,7 +45,7 @@ Nous souhaitons :
 * Reconnaître le civisme des votants pour le respect des consignes barrière mises à leur disposition ;
 * Féliciter tous les acteurs, personnels municipaux, présidents et assesseurs des bureaux de vote (qui sont des représentants bénévoles des différentes listes), pour le bon déroulement de ces élections et pour la mise en œuvre organisationnelle et opérationnelle des consignes barrières recommandées par les autorités préfectorales (même reçues au tout dernier moment à 19h une heure avant le dépouillement) ;
 * Remercier plus particulièrement les scrutateurs, simples électeurs, qui se sont rendus disponibles avec un très grand civisme, pour dépouiller les bulletins en respectant les consignes barrières très strictes (ports de masques, gants, nettoyage des mains toutes les 10 mn aux solutions hydro-alcooliques) ;
-* Et enfin fait part de notre honneur des votes des habitant(e)s en faveur de notre liste ambition citoyenne, menée par Christophe Leroy.
+* Et enfin remercier toutes celles et ceux qui, par leur vote, ont témoigné leur confiance à la liste Ambition Citoyenne, conduite par Christophe Leroy. 
 
 Les valeurs de gauche et écologistes seront représentés par nos 2 conseillers municipaux  : notre tête de liste, Christophe Leroy et Nathalie LAUNAY, 2nde de la liste.
 
