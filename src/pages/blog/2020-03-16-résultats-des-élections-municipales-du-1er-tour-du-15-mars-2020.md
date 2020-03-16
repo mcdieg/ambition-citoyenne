@@ -47,7 +47,7 @@ Nous souhaitons :
 * Remercier plus particulièrement les scrutateurs, simples électeurs, qui se sont rendus disponibles avec un très grand civisme, pour dépouiller les bulletins en respectant les consignes barrières très strictes (ports de masques, gants, nettoyage des mains toutes les 10 mn aux solutions hydro-alcooliques) ;
 * Et enfin fait part de notre honneur des votes des habitant(e)s en faveur de notre liste ambition citoyenne, menée par Christophe Leroy.
 
-En raison du score plus faible que 2014, les valeurs de gauche et écologistes ne seront plus représentées que par 2 conseillers municipaux de notre liste (au lieu de 4 élu(e)s) : Christophe Leroy et Nathalie LAUNAY. 
+Les valeurs de gauche et écologistes seront représentés par nos 2 conseillers municipaux  : notre tête de liste, Christophe Leroy et Nathalie LAUNAY, 2nde de la liste.
 
 ![](/img/élus du 16 mars 2020.jpg)
 
