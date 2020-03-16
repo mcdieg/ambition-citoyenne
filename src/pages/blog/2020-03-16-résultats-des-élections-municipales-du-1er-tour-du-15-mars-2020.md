@@ -2,13 +2,10 @@
 templateKey: blog-post
 title: Résultats des élections municipales du 1er tour du 15 mars 2020
 date: 2020-03-16T18:35:54.190Z
-description: >+
+description: >
 
-  Nous prenons acte du verdict des urnes et nous soumettons à la décision de
-  l’Etat quant à la validité de ces résultats et des élections en particulier au
-  regard de l’abstention massive nationale y compris dans notre commune (55,15 %
-  en 2020 versus 33,41 %  en 2014).
-
+  Cher(e)s électrices et électeurs du
+  Plessis-Robinson,                             
 featuredpost: false
 featuredimage: /img/élus du 16 mars 2020.jpg
 tags:
@@ -22,7 +19,7 @@ tags:
   - abstention
   - '2020'
 ---
-Cher(e)s électrices et électeurs du Plessis-Robinson,
+
 
 Malgré les circonstances exceptionnelles liées au COVID-19, le président de la République a choisi de maintenir le scrutin du 1er tour. [Les résultats provisoires sont les suivants](https://elections.interieur.gouv.fr/municipales-2020/092/092060.html) :
 
@@ -41,6 +38,8 @@ Pour les suffrages exprimés, le score attribué pour chaque liste est le suivan
   *14,10 % soit 2 sièges également*
 
 Vous trouverez le détail par [bureau de vote sur le site de la commun](http://www.plessis-robinson.com/actualites/detail/article/elections-municipales-les-resultats-provisoires.html)e.
+
+Nous prenons acte du verdict des urnes et nous soumettons à la décision de l’Etat quant à la validité de ces résultats et des élections en particulier au regard de l’abstention massive nationale y compris dans notre commune (55,15 % en 2020 versus 33,41 %  en 2014).
 
 Nous souhaitons : 
 
