@@ -30,13 +30,13 @@ Votants :  44,9 % (versus 66,59 % en 2014)
 
 Pour les suffrages exprimés, le score attribué pour chaque liste est le suivant 
 
-*  1ère liste : liste LR conduite par Philippe Pemezec  
+* 1ère liste : liste LR conduite par Philippe Pemezec  
 
   *71,77 % soit 31 sièges communaux et 1 siège à la Métropole Grand Paris*
-*  2ème liste : **notre liste ambition citoyenne menée par Christophe Leroy** 
+* 2ème liste : **notre liste ambition citoyenne menée par Christophe Leroy** 
 
   ***14,11 % soir 2 sièges***
-*  3ème liste : liste LREM conduite par Christelle Carconne 
+* 3ème liste : liste LREM conduite par Christelle Carconne 
 
   *14,10 % soit 2 sièges également*
 
@@ -56,6 +56,6 @@ En raison du score plus faible que 2014, les valeurs de gauche et écologistes n
 
 Nos deux élus s’engagent à se porter dignes de votre confiance pour porter les valeurs de gauche et écologistes et défendre les propositions de notre programme pour une ville durable, juste et conviviale. 
 
-Pour ce faire, nos deux élus continueront de travailler, main dans la main, avec l’ensemble du collectif, rassemblant des citoyens non affiliés à des partis et des représentants du PS, PCF, LFI, Parti de Gauche, Génération-S, EELV, et en particulier  avec les 3 anciens élus, Jean-François Papot, Béatrice Maubras, Catherine Faguette qui sauront nous faire partager leur expérience de leur précédent(s) mandat(s).
+Pour ce faire, nos deux élus continueront de travailler, main dans la main, avec l’ensemble du collectif, rassemblant des citoyens non affiliés à des partis et des représentants du PS, PCF, LFI, Parti de Gauche, Génération-S, EELV, et en particulier  avec les 3 anciens élus, Jean-François Papot, Béatrice Maubras, Catherine Faguette qui sauront nous faire partager leurs expériences de leur(s) précédent(s) mandat(s).
 
 Le collectif ambition citoyenne se met aussi à disposition de la municipalité pour participer à l’effort civique pour lutter contre la crise sanitaire sans précédent dans notre histoire récente liée au COVID-19. Enfin nous invitons tous les habitants du Plessis-Robinson, à respecter strictement, les consignes gouvernementales de confinement et consignes barrières indispensables dans le cadre d’activités strictement nécessaires, afin de se préserver eux-mêmes mais aussi préserver les autres de tout risque contact et respecter le travail de tous les personnels de santé qui vont devoir faire front avec courage et détermination.
